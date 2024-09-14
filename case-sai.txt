@@ -1,0 +1,99 @@
+Câu lệnh: find .
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['.', '-name', '-type', '-empty', '\\(']
+
+Câu lệnh: sync
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: touch index.html
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git stash pop
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: sudo python QRcodeIdentify.py
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: find .
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['.', '-name', '-type', '-empty', '\\(']
+
+Câu lệnh: curl -u admin:admin -H 'Content-type: application/json' -X PUT -d
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-d', '\'{"installInHw":"true",']
+
+Câu lệnh: find . -type f -a \( -name "*.html" -o -name
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-name', '"*RELEASE.txt"', '"*CHANGELOG.txt"', '"*CONTRIBUTING.txt"', '"*LICENSE.txt"']
+
+Câu lệnh: find .
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['.', '-name', '-type', '-empty', '\\(']
+
+Câu lệnh: clear
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: yarn install
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd .
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['..']
+
+Câu lệnh: find .
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['.', '-name', '-type', '-empty', '\\(']
+
+Câu lệnh: find .
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['.', '-name', '-type', '-empty', '\\(']
+
+Câu lệnh: find . \( -name "*SECURITY.txt" -o -name "*RELEASE.txt" -o -name "*CHANGELOG.txt" -o -name "*LICENSE.txt" -o -name "*CONTRIBUTING.txt" -name "*HISTORY.md" -o -name "*LICENSE" -o -name
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-name', '"*CHANGELOG.txt"', '"*RELEASE.txt"', '"*LICENSE.txt"', '"*CONTRIBUTING.txt"']
+
+Câu lệnh: ls /home/
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: sudo systemctl daemon-reload
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: vi .
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: find . -type f -a \( -name "*.html" -o -name
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-name', '"*RELEASE.txt"', '"*CHANGELOG.txt"', '"*CONTRIBUTING.txt"', '"*LICENSE.txt"']
+
+Câu lệnh: find .
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['.', '-name', '-type', '-empty', '\\(']
+
+Câu lệnh: find .
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['.', '-name', '-type', '-empty', '\\(']
+
+Câu lệnh: cd root
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls -lt
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls -lt
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: yarn install
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
