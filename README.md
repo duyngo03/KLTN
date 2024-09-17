@@ -1,4 +1,4 @@
 # KLTN
 
-Độ chính xác (Accuracy): 99.86% <br>
-Độ chính xác của gợi ý đứng đầu (Top Suggestion Accuracy): 89.63%
+Độ chính xác (Accuracy): 96.06% <br>
+Độ chính xác của gợi ý đứng đầu (Top Suggestion Accuracy): 86.52%
