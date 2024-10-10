@@ -1,0 +1,5644 @@
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: find . -type f
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['f', '-print', '-exec', '-name', '-a']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo wget
+Từ thực tế: "<URL>"
+Top 5 từ dự đoán: ['<URL>', '-O', '-r', '-NP', '-qO']
+
+Câu lệnh: sudo setfacl -R -m
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: sudo cp -R
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git add
+Từ thực tế: -all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git <directory> --global <file>
+Từ thực tế: "<file>"
+Top 5 từ dự đoán: ['<file>', '<string>', '"<string>"', 'cd', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: screen -wipe -S
+Từ thực tế: <number>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: .config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd <directory>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<directory>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: openssl passwd
+Từ thực tế: -6
+Top 5 từ dự đoán: []
+
+Câu lệnh: git commit -a
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['-m', 'cd', 'ls', '-am', 'vim']
+
+Câu lệnh: cd
+Từ thực tế: github/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git rebase
+Từ thực tế: --continue
+Top 5 từ dự đoán: ['-i', 'origin/main', '<string>', '<directory>', '--abort']
+
+Câu lệnh: cd
+Từ thực tế: github
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: xrandr
+Từ thực tế: --help
+Top 5 từ dự đoán: ['--output', '-q', '--listmonitors', 'git', 'cd']
+
+Câu lệnh: head -n <number>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<number>', 'cd', 'sudo', 'git', 'ls']
+
+Câu lệnh: systemctl
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['status', 'start', 'restart', 'stop', 'enable']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git add
+Từ thực tế: -
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: git remote add -m
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git show --pretty="format:"
+Từ thực tế: --name-only
+Top 5 từ dự đoán: []
+
+Câu lệnh: hexdump
+Từ thực tế: -h
+Top 5 từ dự đoán: ['<file>', '-c', '-C', '-b', 'rm']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: --all
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cp
+Từ thực tế: -h
+Top 5 từ dự đoán: ['<string>', '<file>', '-r', '-v', '-R']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: sudo apt-get -u
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sort
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-g', '-u', 'ls', '-nr', 'cd']
+
+Câu lệnh: tmux
+Từ thực tế: -u
+Top 5 từ dự đoán: ['a', 'source', 'kill-session', 'ls', '<string>']
+
+Câu lệnh: git commit
+Từ thực tế: --amen
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: sudo -H python3 <file>
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git branch
+Từ thực tế: -v
+Top 5 từ dự đoán: ['-M', '<string>', 'ls', '-a', 'cd']
+
+Câu lệnh: touch index.html
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git commit
+Từ thực tế: -am'm'
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: su -c
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git add
+Từ thực tế: -
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: npm run
+Từ thực tế: devstart
+Top 5 từ dự đoán: ['dev', 'run', 'test', 'bench', '<string>']
+
+Câu lệnh: sudo lshw -C
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: npm run test
+Từ thực tế: --force
+Top 5 từ dự đoán: ['test', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: git commit
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: cp
+Từ thực tế: -h
+Top 5 từ dự đoán: ['<string>', '<file>', '-r', '-v', '-R']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git <directory> pull.rebase
+Từ thực tế: true
+Top 5 từ dự đoán: ['false']
+
+Câu lệnh: npm install
+Từ thực tế: --only=prod"
+Top 5 từ dự đoán: ['install', '<string>', '-g', '--save', 'cd']
+
+Câu lệnh: git commit
+Từ thực tế: --amend
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo pacman
+Từ thực tế: -Q
+Top 5 từ dự đoán: ['-S', '-Syyu', '-Syu', '-Ss', '-R']
+
+Câu lệnh: sudo gpg --yes --dearmor --output
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: less
+Từ thực tế: -S
+Top 5 từ dự đoán: ['<string>', '<file>', 'cd', 'ls', 'git']
+
+Câu lệnh: w
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['cd', 'vi', 'sudo', 'cat', 'pwd']
+
+Câu lệnh: sudo sudo -i
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['ls', 'cd', 'exit', 'vi', 'git']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: <file>
+Từ thực tế: program
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git branch
+Từ thực tế: -v
+Top 5 từ dự đoán: ['-M', '<string>', 'ls', '-a', 'cd']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo apt
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'apt', '-y', 'remove']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: wget -q -U
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: git <directory> <file>
+Từ thực tế: "<file>"
+Top 5 từ dự đoán: ['<file>', 'ls', 'git', 'cd', 'sudo']
+
+Câu lệnh: cp -r tmux
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git commit
+Từ thực tế: -A
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: git pull
+Từ thực tế: --all
+Top 5 từ dự đoán: ['<directory>', '<string>', 'origin', '--rebase', '-v']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: vi <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo -rm -rf
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: find . \( -name "<file>" -o -name "<file>" -o -name "<file>" -o -name "<file>" -o -name "<file>" -name "<file>" -o -name "<string>" -o -name "<file>" -o -name "<file>" -o -name "<file>" -o -name "<file>" -o -name "<file>" -o -name "<file>" \) -exec rm -rf -- {}
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['{}', '+']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: npm
+Từ thực tế: --verison
+Top 5 từ dự đoán: ['install', 'run', 'start', 'i', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: grep
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git <directory> <file>
+Từ thực tế: "<file>"
+Top 5 từ dự đoán: ['<file>', 'ls', 'git', 'cd', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: .config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git -f rm --cached
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>', '-r', 'fg']
+
+Câu lệnh: sudo lsof -i
+Từ thực tế: -P
+Top 5 từ dự đoán: ['<string>', '-i', 'ls', 'cd', 'man']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'update', '-y', 'remove']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: tail -d
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git remote set
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-url', 'set-url']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo pacman -Rsn
+Từ thực tế: dpkg
+Top 5 từ dự đoán: ['<string>']
+
+Câu lệnh: sudo pacman -Rns
+Từ thực tế: vim
+Top 5 từ dự đoán: ['<string>']
+
+Câu lệnh: exit
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', 'clear']
+
+Câu lệnh: git remote
+Từ thực tế: --v
+Top 5 từ dự đoán: ['add', '-v', 'set-url', '<string>', 'remove']
+
+Câu lệnh: sudo apt
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'apt', '-y', 'remove']
+
+Câu lệnh: git <directory> <file>
+Từ thực tế: "<file>"
+Top 5 từ dự đoán: ['<file>', 'ls', 'git', 'cd', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: tar -xvJf
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: sudo usermod -d
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: rm dir
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: application
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: head
+Từ thực tế: -n-5
+Top 5 từ dự đoán: ['<string>', '-n', '-1', '-n1\\', 'git']
+
+Câu lệnh: du -ahBM
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: screen
+Từ thực tế: -dr
+Top 5 từ dự đoán: ['-r', '-ls', '-S', '-rd', 'cd']
+
+Câu lệnh: sudo python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: github
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'update', '-y', 'remove']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: curl --request
+Từ thực tế: --help
+Top 5 từ dự đoán: ['vi']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git fetch upstream
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-v']
+
+Câu lệnh: gpg
+Từ thực tế: --list-keys
+Top 5 từ dự đoán: ['--verify', '#clon', '--dearmor', '--keyserver', '--recv-keys']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git push
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['-u', '<URL>', '<string>', '--set-upstream', '-f']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git commit
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: public/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: uname
+Từ thực tế: -n
+Top 5 từ dự đoán: ['-a', '-r', '-m', 'ls', '-s']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git <directory> --unset --global
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git push
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['-u', '<URL>', '<string>', '--set-upstream', '-f']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: <file>
+Từ thực tế: program
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: df
+Từ thực tế: -sh
+Top 5 từ dự đoán: ['-h', '-lh', 'ls', 'cd', 'git']
+
+Câu lệnh: sudo dhclient
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: grep -i -a
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: npm
+Từ thực tế: --version
+Top 5 từ dự đoán: ['install', 'run', 'start', 'i', '<string>']
+
+Câu lệnh: tmux kill-server
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['git']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: service
+Từ thực tế: --status-all
+Top 5 từ dự đoán: ['nginx', 'apache2', '<string>', 'mysql', 'lightdm']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: uname
+Từ thực tế: -o
+Top 5 từ dự đoán: ['-a', '-r', '-m', 'ls', '-s']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cut -d,
+Từ thực tế: -f9
+Top 5 từ dự đoán: []
+
+Câu lệnh: python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git <directory> --get --global
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: sudo dnf install xclip
+Từ thực tế: openssl
+Top 5 từ dự đoán: ['-y']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git diff HEAD
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: sudo
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: git <directory> <file>
+Từ thực tế: "<file>"
+Top 5 từ dự đoán: ['<file>', 'ls', 'git', 'cd', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: .config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls -al
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', '<directory>', 'sudo']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: grep -v -e
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: sudo
+Từ thực tế: shutdown
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: sudo pacman
+Từ thực tế: -Q
+Top 5 từ dự đoán: ['-S', '-Syyu', '-Syu', '-Ss', '-R']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git commit -a
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['-m', 'cd', 'ls', '-am', 'vim']
+
+Câu lệnh: cp passwd
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git commit
+Từ thực tế: --amend
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: find . -type f
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['f', '-print', '-exec', '-name', '-a']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: npm -
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git commit
+Từ thực tế: -m"update"
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: sudo flatpak
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['override', 'update', 'install', '--update']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: .config/nvim
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git add --all
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['git', 'ls', 'cd', 'sudo', 'clear']
+
+Câu lệnh: cd
+Từ thực tế: views
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: perl
+Từ thực tế: -v
+Top 5 từ dự đoán: ['<file>', '-pe', '-e', '-nle', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: find . -type f -a \( -name "<file>" -o -name "<file>" -o -name "<file>" -o -name "<file>"
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['"<file>"', '-o', '-type', '\\)', '-name']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git push
+Từ thực tế: --help
+Top 5 từ dự đoán: ['-u', '<URL>', '<string>', '--set-upstream', '-f']
+
+Câu lệnh: yarn
+Từ thực tế: -v
+Top 5 từ dự đoán: ['add', '<string>', 'install', 'dev', 'dev-migr-gen']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: fsck
+Từ thực tế: -l
+Top 5 từ dự đoán: ['-f', '--full', 'clear', 'sed', '<directory>']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: <file>
+Từ thực tế: program
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: sudo ls <directory>
+Từ thực tế: -al
+Top 5 từ dự đoán: ['<directory>', 'ls', 'cd', 'git', 'clear']
+
+Câu lệnh: git push -u origin master
+Từ thực tế: -f
+Top 5 từ dự đoán: ['master', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: grep
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: code
+Từ thực tế: --verbose
+Top 5 từ dự đoán: ['.', '<string>', 'ls', 'sudo', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: --help
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ss
+Từ thực tế: -nlpt
+Top 5 từ dự đoán: ['git', 'ls', 'sudo', '-a', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git commit
+Từ thực tế: -m"hhhh"
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: open -Design\
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: dpkg
+Từ thực tế: --force-help
+Top 5 từ dự đoán: ['-i', '-l', '-L', '--configure', '-r']
+
+Câu lệnh: wget unzip
+Từ thực tế: api
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo python3 <file>
+Từ thực tế: install
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: git <directory> --globel
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo python3 <file>
+Từ thực tế: install
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: git rebase
+Từ thực tế: --continue
+Top 5 từ dự đoán: ['-i', 'origin/main', '<string>', '<directory>', '--abort']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git <file>
+Từ thực tế: --continue
+Top 5 từ dự đoán: ['<file>', '<string>', '<file>', '--staged', '--abort']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo flatpak override
+Từ thực tế: --filesystem=/usr/share/themes
+Top 5 từ dự đoán: ['override', '--reset', '--filesystem=$HOME/.themes', '--filesystem=/usr/share/icons', '--env=GTK_THEME=NumixSolarizedDarkCyan']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: exit
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', 'clear']
+
+Câu lệnh: sudo tee -a
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>']
+
+Câu lệnh: sudo flatpak
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['override', 'update', 'install', '--update']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cp -r dir
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: bash
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<file>', 'cd', 'ls', 'git', '<string>']
+
+Câu lệnh: curl
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>', '-u', '<URL>', '-X', '-v']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: rm -rfv
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: cd
+Từ thực tế: views
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: find . -type f -ctime
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo apt -get
+Từ thực tế: install
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ssh-keygen -t ssh -C
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: sh
+Từ thực tế: -s\
+Top 5 từ dự đoán: ['<file>', '-c', 'setup.sh', '<string>', 'cd']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: tee
+Từ thực tế: -h
+Top 5 từ dự đoán: ['<file>', '<directory>', '-a', '--help', '--unbuffered']
+
+Câu lệnh: sed
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-i', '<directory>', '-E', '-n', '-r']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: tmux
+Từ thực tế: -V
+Top 5 từ dự đoán: ['a', 'source', 'kill-session', 'ls', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sort
+Từ thực tế: -hn
+Top 5 từ dự đoán: ['-g', '-u', 'ls', '-nr', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: bash
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<file>', 'cd', 'ls', 'git', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: .config/nvim
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: grep -wr
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: application
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: bash
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<file>', 'cd', 'ls', 'git', '<string>']
+
+Câu lệnh: git commit
+Từ thực tế: -am'm'
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: <file>
+Từ thực tế: program
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo rpm -qpR
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: .config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: sudo
+Từ thực tế: shutdown
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: bash
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<file>', 'cd', 'ls', 'git', '<string>']
+
+Câu lệnh: df
+Từ thực tế: -u
+Top 5 từ dự đoán: ['-h', '-lh', 'ls', 'cd', 'git']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git commit
+Từ thực tế: --amend
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: grep
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo apt-get -y
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['upgrade', 'update', 'dist-upgrade', '-y', 'install']
+
+Câu lệnh: xrandr
+Từ thực tế: --list
+Top 5 từ dự đoán: ['--output', '-q', '--listmonitors', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: curl
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<string>', '-u', '<URL>', '-X', '-v']
+
+Câu lệnh: sudo curl <URL>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<URL>', 'ls', '-o', 'sudo', '-k']
+
+Câu lệnh: cd
+Từ thực tế: config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: bash -e
+Từ thực tế: "<file>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo nvidia-xconfig --enable-all-gpus
+Từ thực tế: --cool-bits=4
+Top 5 từ dự đoán: ['sed', 'clear', 'cat', '--enable-all-gpus']
+
+Câu lệnh: git push --set-upstream origin master
+Từ thực tế: --force
+Top 5 từ dự đoán: ['master', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: curl -u admin:admin -H 'Content-type: <directory> -X PUT -d '{"installInHw":"true", "<string>" :"sw2toH3", "<string>" : {"id":"00:00:00:00:00:00:00:12", "<string>" :"OF"}, "<string>" : "<string>" , "<string>" : "<string>" , "<string>"
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['"<string>"', ':', ':"11","actions":["OUTPUT=5099"]}\'', ':"13","actions":["OUTPUT=5104"]}\'', ':"11","actions":["OUTPUT=5100"]}\'']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: mkdir src
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git pull
+Từ thực tế: -all
+Top 5 từ dự đoán: ['<directory>', '<string>', 'origin', '--rebase', '-v']
+
+Câu lệnh: sudo pip install -e
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['cd']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'update', '-y', 'remove']
+
+Câu lệnh: cd
+Từ thực tế: github/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: mount
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<directory>', '-t', '--types', '-B', '-l']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: views/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git commit -m "<string>"
+Từ thực tế: --no-verify
+Top 5 từ dự đoán: ['"<string>"', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git commit
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: grep -i -a
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git commit
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: sudo
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: dpkg
+Từ thực tế: --list
+Top 5 từ dự đoán: ['-i', '-l', '-L', '--configure', '-r']
+
+Câu lệnh: rm -rf --
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['{}', '--']
+
+Câu lệnh: sudo udevadm
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['control', 'trigger']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo cp -a
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>']
+
+Câu lệnh: curl -LO --output-dir
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: find -type
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: journalctl -b -3 -e
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-e', 'fg', 'ls']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git pull <directory> master
+Từ thực tế: --allow-unrelated-histories
+Top 5 từ dự đoán: ['master', 'ls', 'cd', 'git', 'clear']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git log --oneline -n
+Từ thực tế: <number>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo apt
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'apt', '-y', 'remove']
+
+Câu lệnh: sudo pacman -S --overwrite
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: find . -type f
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['f', '-print', '-exec', '-name', '-a']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: unzip
+Từ thực tế: -l
+Top 5 từ dự đoán: ['<file>', '-o', '-zst', '-R', '-c']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: grep
+Từ thực tế: info
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'update', '-y', 'remove']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: tar
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<string>', '-zxvf', '-xvf', '-xf', 'xvzf']
+
+Câu lệnh: git checkout <directory>
+Từ thực tế: -f
+Top 5 từ dự đoán: ['<directory>', 'ls', 'cd', 'sudo', 'git']
+
+Câu lệnh: sudo python3 <file>
+Từ thực tế: install
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'start', 'i', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: gsettings set
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'set']
+
+Câu lệnh: sudo rm -
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['-rf', '-r']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: github
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: less -N
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: killall -u
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: jq -r
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: tmux
+Từ thực tế: -u
+Top 5 từ dự đoán: ['a', 'source', 'kill-session', 'ls', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'start', 'i', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: views
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git <directory> --Omit --global
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo su
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['-', '<string>', 'mv', 'chmod', '-l']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: grep -OE
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git <directory> <file>
+Từ thực tế: "<file>"
+Top 5 từ dự đoán: ['<file>', 'ls', 'git', 'cd', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: xhost
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['+', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: wget -r -np -R
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: useradd -m
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-G']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: git rebase
+Từ thực tế: --continue
+Top 5 từ dự đoán: ['-i', 'origin/main', '<string>', '<directory>', '--abort']
+
+Câu lệnh: curl -LsO
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: sort
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-g', '-u', 'ls', '-nr', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: .config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: git pull <directory> development
+Từ thực tế: -f
+Top 5 từ dự đoán: ['ls', 'development', 'cd', 'git', '--no-ff']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: telnet
+Từ thực tế: -v
+Top 5 từ dự đoán: ['<string>', 'sudo', '-h', '-tulpn', '--help']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo apt-get -f install
+Từ thực tế: -y
+Top 5 từ dự đoán: ['install', 'git', 'tar', 'ls', 'bash']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'update', '-y', 'remove']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: git commit -a -m'Fix
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: .config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: tar -xvJf
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: find . -type f -a \( -name "<file>" -o -name "<file>" -o -name "<file>" -o -name "<file>"
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['"<file>"', '-o', '-type', '\\)', '-name']
+
+Câu lệnh: npm run
+Từ thực tế: devstart
+Top 5 từ dự đoán: ['dev', 'run', 'test', 'bench', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: vim <file>
+Từ thực tế: -NO
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: rm <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: npm i
+Từ thực tế: --legacy-peer-deps
+Top 5 từ dự đoán: ['<string>', 'install', '-g', 'sass', '-D']
+
+Câu lệnh: wc -L
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git remote -v
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['ls', '-v', 'cd', 'sudo', 'git']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sort -r
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['sudo']
+
+Câu lệnh: ls -al
+Từ thực tế: --color
+Top 5 từ dự đoán: ['ls', 'cd', 'git', '<directory>', 'sudo']
+
+Câu lệnh: git commit
+Từ thực tế: -m"commit"
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: set
+Từ thực tế: -x
+Top 5 từ dự đoán: ['<file>', '<string>', '-e', 'ls', '-ex']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: python3
+Từ thực tế: -
+Top 5 từ dự đoán: ['<file>', '-m', '<string>', '--version', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: apt list -a
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: --h
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git status
+Từ thực tế: -ignore
+Top 5 từ dự đoán: ['status', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: find .
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['.', '-name', '-type', '-empty', '\\(']
+
+Câu lệnh: cd
+Từ thực tế: .config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sort
+Từ thực tế: -n
+Top 5 từ dự đoán: ['-g', '-u', 'ls', '-nr', 'cd']
+
+Câu lệnh: df
+Từ thực tế: -g
+Top 5 từ dự đoán: ['-h', '-lh', 'ls', 'cd', 'git']
+
+Câu lệnh: df
+Từ thực tế: -Th
+Top 5 từ dự đoán: ['-h', '-lh', 'ls', 'cd', 'git']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: find . -type f
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['f', '-print', '-exec', '-name', '-a']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: <directory>
+Từ thực tế: update
+Top 5 từ dự đoán: ['<directory>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: screen -s
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git commit
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: github/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: wget -q -O
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['-', '-O', '-O-']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: --help
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: df -h
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-h', 'ls', 'cd', '<directory>', 'sudo']
+
+Câu lệnh: git <directory> <file>
+Từ thực tế: "<file>"
+Top 5 từ dự đoán: ['<file>', 'ls', 'git', 'cd', 'sudo']
+
+Câu lệnh: unzip -C
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: grep
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: sudo
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: python3 <file>
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: man
+Từ thực tế: rmdir
+Top 5 từ dự đoán: ['<string>', '-k', '2', 'rm', '-m']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: grep
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: .config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git commit
+Từ thực tế: -A
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: --help
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: --all
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: lsof
+Từ thực tế: -i:8000
+Top 5 từ dự đoán: ['-i', '-n', '-ti:8889', '-ti:8888', '-u']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git rebase
+Từ thực tế: --continue
+Top 5 từ dự đoán: ['-i', 'origin/main', '<string>', '<directory>', '--abort']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: chmod --reference=hiwonder-toolbox
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: apt-get update
+Từ thực tế: --fix-missing
+Top 5 từ dự đoán: ['update', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: useradd -r -g
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: egrep -c
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls -alh
+Từ thực tế: --group-directories-first
+Top 5 từ dự đoán: ['<file>']
+
+Câu lệnh: git branch
+Từ thực tế: --set--upstream-to=origin
+Top 5 từ dự đoán: ['-M', '<string>', 'ls', '-a', 'cd']
+
+Câu lệnh: find -type
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd mkdir
+Từ thực tế: clangd
+Top 5 từ dự đoán: ['<string>', 'hello_dir', '-p']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: configmaps/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'update', '-y', 'remove']
+
+Câu lệnh: curl
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>', '-u', '<URL>', '-X', '-v']
+
+Câu lệnh: <file>
+Từ thực tế: program
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: systemctl
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['status', 'start', 'restart', 'stop', 'enable']
+
+Câu lệnh: wget -c -i
+Từ thực tế: <URL>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'update', '-y', 'remove']
+
+Câu lệnh: sudo python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: cp <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '<file>']
+
+Câu lệnh: tmux
+Từ thực tế: -a
+Top 5 từ dự đoán: ['a', 'source', 'kill-session', 'ls', '<string>']
+
+Câu lệnh: rm <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo apt-get install
+Từ thực tế: -f
+Top 5 từ dự đoán: ['<string>', 'install', '-y', 'build-essential', 'docker-ce']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo chmod a-x
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cut -d':' -f3
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: tmux
+Từ thực tế: --version
+Top 5 từ dự đoán: ['a', 'source', 'kill-session', 'ls', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git status
+Từ thực tế: -v
+Top 5 từ dự đoán: ['status', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: sudo ls <directory>
+Từ thực tế: -a
+Top 5 từ dự đoán: ['<directory>', 'ls', 'cd', 'git', 'clear']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: nano nano
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cut
+Từ thực tế: --help
+Top 5 từ dự đoán: ['-f', '-d', "-d'", "-d','", '-d"']
+
+Câu lệnh: systemctl
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['status', 'start', 'restart', 'stop', 'enable']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: bash
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<file>', 'cd', 'ls', 'git', '<string>']
+
+Câu lệnh: gpg
+Từ thực tế: --help
+Top 5 từ dự đoán: ['--verify', '#clon', '--dearmor', '--keyserver', '--recv-keys']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo xbps-install -S
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['ls', '-Su', '-S']
+
+Câu lệnh: cd
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: grep -win
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['-C', '-B']
+
+Câu lệnh: ls -al
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', '<directory>', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: views/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: --help
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git <directory>
+Từ thực tế: -l
+Top 5 từ dự đoán: ['<directory>', '--global', '<string>', 'user.name', '<file>']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo apt remove -y
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cp <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: grep
+Từ thực tế: -Syu
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: ls -l
+Từ thực tế: --a
+Top 5 từ dự đoán: ['ls', '<string>', 'cd', 'git', 'sudo']
+
+Câu lệnh: diff --git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['sudo']
+
+Câu lệnh: ls -l
+Từ thực tế: -a
+Top 5 từ dự đoán: ['ls', '<string>', 'cd', 'git', 'sudo']
+
+Câu lệnh: pwd
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', 'clear']
+
+Câu lệnh: chown
+Từ thực tế: --help
+Top 5 từ dự đoán: ['-R', '<string>', 'ec2-user', '-Rv', 'root:root']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: <file>
+Từ thực tế: program
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: command cat >
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: sudo apt
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'apt', '-y', 'remove']
+
+Câu lệnh: npm install
+Từ thực tế: -f
+Top 5 từ dự đoán: ['install', '<string>', '-g', '--save', 'cd']
+
+Câu lệnh: grep
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: systemctl
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['status', 'start', 'restart', 'stop', 'enable']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: apt-get info
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: grep
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: dpkg
+Từ thực tế: --list
+Top 5 từ dự đoán: ['-i', '-l', '-L', '--configure', '-r']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo pip install -H
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git pull <directory> main
+Từ thực tế: --allow-unrelated-histories
+Top 5 từ dự đoán: ['git', 'clear', 'main', 'sudo', 'ls']
+
+Câu lệnh: du -
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-sh', '-h', '-skh']
+
+Câu lệnh: rm
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-rf', '-r', '<file>', '-f']
+
+Câu lệnh: systemctl
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['status', 'start', 'restart', 'stop', 'enable']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: git commit
+Từ thực tế: -Am"ind"
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: git stash
+Từ thực tế: -h
+Top 5 từ dự đoán: ['pop', 'apply', '<string>', '-m', '--include-untracked']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: tar
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-zxvf', '-xvf', '-xf', 'xvzf']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git <directory> --global <file>
+Từ thực tế: "<file>"
+Top 5 từ dự đoán: ['<file>', '<string>', '"<string>"', 'cd', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo cat <directory>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<directory>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo python3 <file>
+Từ thực tế: install
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo ln -sw
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git <directory>
+Từ thực tế: -l
+Top 5 từ dự đoán: ['<directory>', '--global', '<string>', 'user.name', '<file>']
+
+Câu lệnh: ps -
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-ef', '-auxwf']
+
+Câu lệnh: df
+Từ thực tế: -GB
+Top 5 từ dự đoán: ['-h', '-lh', 'ls', 'cd', 'git']
+
+Câu lệnh: sudo dpkg --purge --force-all
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: shutdown
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: git <file> --source=HEAD --staged --worktree --recursive
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git pull
+Từ thực tế: -p
+Top 5 từ dự đoán: ['<directory>', '<string>', 'origin', '--rebase', '-v']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git push -f -u
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: grep
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ps -e
+Từ thực tế: -orss=,%mem,args=
+Top 5 từ dự đoán: ['-ef']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: find
+Từ thực tế: --help
+Top 5 từ dự đoán: ['.', '<string>', '<directory>', '/', '-name']
+
+Câu lệnh: sudo apt
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'apt', '-y', 'remove']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git checkout
+Từ thực tế: --
+Top 5 từ dự đoán: ['<string>', '<directory>', '-b', '<file>', '-']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: git commit
+Từ thực tế: --amend
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: npm i
+Từ thực tế: --legacy-peer-deps
+Top 5 từ dự đoán: ['<string>', 'install', '-g', 'sass', '-D']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: openssl req -new -x509 -nodes -sha1 -days
+Từ thực tế: <number>
+Top 5 từ dự đoán: []
+
+Câu lệnh: tmux
+Từ thực tế: -V
+Top 5 từ dự đoán: ['a', 'source', 'kill-session', 'ls', '<string>']
+
+Câu lệnh: sudo apt
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'apt', '-y', 'remove']
+
+Câu lệnh: git branch -Df
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: sudo
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: du -xh
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo dpkg
+Từ thực tế: --print-architecture
+Top 5 từ dự đoán: ['-i', '--configure', '-r', '--remove', '-l']
+
+Câu lệnh: cd
+Từ thực tế: .config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: curl
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>', '-u', '<URL>', '-X', '-v']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'start', 'i', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: grep -wPrc
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: grep -v -e
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: wget -q -U
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: git <file> -i
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>', 'git']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: cd
+Từ thực tế: views
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo flatpak
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['override', 'update', 'install', '--update']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: -2
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: history
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-a', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: gsettings set
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'set']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git stash apply 0
+Từ thực tế: -q
+Top 5 từ dự đoán: ['0', 'ls', 'git', 'sudo', 'cd']
+
+Câu lệnh: cd
+Từ thực tế: github
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: history -a
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['-a', 'ls', 'git', 'cd', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: github/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: <file>
+Từ thực tế: program
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: test/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'start', 'i', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: curl
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>', '-u', '<URL>', '-X', '-v']
+
+Câu lệnh: curl
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>', '-u', '<URL>', '-X', '-v']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: adduser
+Từ thực tế: xtina
+Top 5 từ dự đoán: ['<string>', 'arjun', '--system', 'Padraig', 'padraig']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: bash
+Từ thực tế: -v
+Top 5 từ dự đoán: ['<file>', 'cd', 'ls', 'git', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: github
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git branch
+Từ thực tế: --list
+Top 5 từ dự đoán: ['-M', '<string>', 'ls', '-a', 'cd']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: fg
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', 'clear']
+
+Câu lệnh: cd
+Từ thực tế: test/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: views
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git commit
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: sudo ls -ltr
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'git', 'cd', 'sudo', 'vi']
+
+Câu lệnh: sudo chown <number>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<number>', 'ss']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: set
+Từ thực tế: -x
+Top 5 từ dự đoán: ['<file>', '<string>', '-e', 'ls', '-ex']
+
+Câu lệnh: watch ping
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: history
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-a', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: grep -irl
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: read -ra
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git push
+Từ thực tế: --all
+Top 5 từ dự đoán: ['-u', '<URL>', '<string>', '--set-upstream', '-f']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo yum -y
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: .config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git pull
+Từ thực tế: -f
+Top 5 từ dự đoán: ['<directory>', '<string>', 'origin', '--rebase', '-v']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd <directory>
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<directory>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: views/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cat grep
+Từ thực tế: passwd
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: npm
+Từ thực tế: --version
+Top 5 từ dự đoán: ['install', 'run', 'start', 'i', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: git
+Từ thực tế: --help
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls -alF
+Từ thực tế: -n
+Top 5 từ dự đoán: ['--color=auto']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: application
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: npm install
+Từ thực tế: --only=prod"
+Top 5 từ dự đoán: ['install', '<string>', '-g', '--save', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo lsof -i -P
+Từ thực tế: -n
+Top 5 từ dự đoán: []
+
+Câu lệnh: git push <URL> master
+Từ thực tế: --force
+Top 5 từ dự đoán: ['master', 'ls', 'git', 'cd', 'sudo']
+
+Câu lệnh: systemctl
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['status', 'start', 'restart', 'stop', 'enable']
+
+Câu lệnh: ssh-keygen -t rsa -P
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: test/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: systemctl
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['status', 'start', 'restart', 'stop', 'enable']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git push
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['-u', '<URL>', '<string>', '--set-upstream', '-f']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git <directory> --user.name
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: git commit
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: fg
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', 'clear']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: cd
+Từ thực tế: test/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: man git
+Từ thực tế: commit
+Top 5 từ dự đoán: ['clone']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: bash
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<file>', 'cd', 'ls', 'git', '<string>']
+
+Câu lệnh: sudo apt-cache
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['search', 'show']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo apt-get clean
+Từ thực tế: -y
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls -l /etc
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: configmaps/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: grep
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: git
+Từ thực tế: -version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git mv *
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: fallocate -l
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: builtin cd
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: apt list -i
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git <file>
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<file>', '<string>', '<file>', '--staged', '--abort']
+
+Câu lệnh: sudo flatpak override
+Từ thực tế: --filesystem=$HOME/.icons
+Top 5 từ dự đoán: ['override', '--reset', '--filesystem=$HOME/.themes', '--filesystem=/usr/share/icons', '--env=GTK_THEME=NumixSolarizedDarkCyan']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: curl -Lo
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: grep -i -E
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['-o', '--no-filename', '-E']
+
+Câu lệnh: ls
+Từ thực tế: -
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo chmod +r
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: views
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sed
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-i', '<directory>', '-E', '-n', '-r']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo python3 <file>
+Từ thực tế: install
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: sudo npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'start', 'i', 'run', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sed
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-i', '<directory>', '-E', '-n', '-r']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git commit
+Từ thực tế: --amend
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: git commit
+Từ thực tế: --amend
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: tail
+Từ thực tế: --help
+Top 5 từ dự đoán: ['-f', '<file>', '-n', '-100', '-n7']
+
+Câu lệnh: dpkg
+Từ thực tế: --force-elp
+Top 5 từ dự đoán: ['-i', '-l', '-L', '--configure', '-r']
+
+Câu lệnh: sudo python3 <file>
+Từ thực tế: install
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: sudo python3 <file>
+Từ thực tế: install
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: ss
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['git', 'ls', 'sudo', '-a', 'cd']
+
+Câu lệnh: sudo -E env
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: df -h
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-h', 'ls', 'cd', '<directory>', 'sudo']
+
+Câu lệnh: sudo
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: nohup python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: history
+Từ thực tế: -w
+Top 5 từ dự đoán: ['-a', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: git branch
+Từ thực tế: -v
+Top 5 từ dự đoán: ['-M', '<string>', 'ls', '-a', 'cd']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: bash
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<file>', 'cd', 'ls', 'git', '<string>']
+
+Câu lệnh: sort
+Từ thực tế: -n
+Top 5 từ dự đoán: ['-g', '-u', 'ls', '-nr', 'cd']
+
+Câu lệnh: ls -al
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', '<directory>', 'sudo']
+
+Câu lệnh: grep -i -a
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: mvn -B
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: xrandr
+Từ thực tế: --listactivemonitors
+Top 5 từ dự đoán: ['--output', '-q', '--listmonitors', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: du --max-depth
+Từ thực tế: <number>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: nohup -c python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: npm start
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['start', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: git <directory>
+Từ thực tế: -l
+Top 5 từ dự đoán: ['<directory>', '--global', '<string>', 'user.name', '<file>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: python3
+Từ thực tế: -version
+Top 5 từ dự đoán: ['<file>', '-m', '<string>', '--version', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: find . -type d
+Từ thực tế: -mindepth=1
+Top 5 từ dự đoán: ['-print', '-exec', 'd', '-prune', 'git']
+
+Câu lệnh: sudo chmod -r-r-r-
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: diff -dB
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git commit
+Từ thực tế: --amend
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: rev
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: public/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: .config/nvim
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: -version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls -alh
+Từ thực tế: --directory
+Top 5 từ dự đoán: ['<file>']
+
+Câu lệnh: sort
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-g', '-u', 'ls', '-nr', 'cd']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git add -a
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['cd']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cat grep -v
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['<string>', 'sh']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ln -sudo
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git submodule add -b
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git push
+Từ thực tế: --force
+Top 5 từ dự đoán: ['-u', '<URL>', '<string>', '--set-upstream', '-f']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd ls
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', '<string>', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'start', 'i', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: configmaps/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sort -r
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['sudo']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git hist
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['-L', '-h']
+
+Câu lệnh: head -n6
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: grep
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: vi <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: git commit -m'Re-write test for
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: sudo apt
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'apt', '-y', 'remove']
+
+Câu lệnh: ls
+Từ thực tế: --full-time
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: dpkg
+Từ thực tế: --get-selections
+Top 5 từ dự đoán: ['-i', '-l', '-L', '--configure', '-r']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: history
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-a', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo cat <directory>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<directory>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: less -N
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo apt
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'apt', '-y', 'remove']
+
+Câu lệnh: cut -f -16
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: mvn exec:java
+Từ thực tế: -Dexec.mainClass="cs1302.ce26.TTTSolver"
+Top 5 từ dự đoán: ['-Dexec.mainClass="cs1302.sorting.SelectionSort"', '-Dexec.mainClass="cs1302.sorting.BubbleSort"', 'exec:java', '-Dexec.mainClass="cs1302.sorting.QuickSort"', '-Dexec.mainClass"cs1302.sorting.BubbleSort"']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: chmod
+Từ thực tế: --all
+Top 5 từ dự đoán: ['+x', '<string>', 'u+x', '<number>', '-R']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: npm
+Từ thực tế: --help
+Top 5 từ dự đoán: ['install', 'run', 'start', 'i', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git commit
+Từ thực tế: --amend
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: git rm
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['--cached', '<string>', '-r', '-rf', '-f']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: tmux a
+Từ thực tế: -t'attributes'
+Top 5 từ dự đoán: ['a', 'git', 'cd', 'ls', '-t']
+
+Câu lệnh: cd
+Từ thực tế: views
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: apt-mark
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: screen
+Từ thực tế: -wipe
+Top 5 từ dự đoán: ['-r', '-ls', '-S', '-rd', 'cd']
+
+Câu lệnh: sudo apt -get
+Từ thực tế: update
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo apt
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'apt', '-y', 'remove']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo cp shadow
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: adduser
+Từ thực tế: test
+Top 5 từ dự đoán: ['<string>', 'arjun', '--system', 'Padraig', 'padraig']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: find . -type f
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['f', '-print', '-exec', '-name', '-a']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: pkill
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>', 'picom', '-u', '<number>', 'yast']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: find -maxdepth
+Từ thực tế: <number>
+Top 5 từ dự đoán: []
+
+Câu lệnh: python3 <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ps -ef
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-ef', 'ls', 'sudo', 'cd', 'git']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git stash
+Từ thực tế: -h
+Top 5 từ dự đoán: ['pop', 'apply', '<string>', '-m', '--include-untracked']
+
+Câu lệnh: cd
+Từ thực tế: views
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git <directory> --global <file>
+Từ thực tế: "<file>"
+Top 5 từ dự đoán: ['<file>', '<string>', '"<string>"', 'cd', 'ls']
+
+Câu lệnh: git commit
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls -lt
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo chmod u=rwx
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: bash apt-get
+Từ thực tế: update
+Top 5 từ dự đoán: ['upgrade']
+
+Câu lệnh: tmux a
+Từ thực tế: -t'attributes'
+Top 5 từ dự đoán: ['a', 'git', 'cd', 'ls', '-t']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git commit -m "<string>"
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['"<string>"', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo apt --upgrade
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: export
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-f', '<directory>', '<file>', '-n']
+
+Câu lệnh: git commit
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git stash
+Từ thực tế: --help
+Top 5 từ dự đoán: ['pop', 'apply', '<string>', '-m', '--include-untracked']
+
+Câu lệnh: git commit
+Từ thực tế: --amend
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: sudo apt-get clean
+Từ thực tế: -y
+Top 5 từ dự đoán: []
+
+Câu lệnh: git commit
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git commit -m "<string>"
+Từ thực tế: --no-verify
+Top 5 từ dự đoán: ['"<string>"', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: lsof
+Từ thực tế: -i:9030
+Top 5 từ dự đoán: ['-i', '-n', '-ti:8889', '-ti:8888', '-u']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo nala update
+Từ thực tế: -y
+Top 5 từ dự đoán: []
+
+Câu lệnh: uniq
+Từ thực tế: -f1
+Top 5 từ dự đoán: ['ls', 'git', '-c', 'cd', '-u']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: npm ls
+Từ thực tế: -g
+Top 5 từ dự đoán: ['<string>', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo ls -l
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['ls', '<string>', 'cd', 'git', 'sudo']
+
+Câu lệnh: git <file>
+Từ thực tế: -continue
+Top 5 từ dự đoán: ['<file>', '<string>', '<file>', '--staged', '--abort']
+
+Câu lệnh: sudo dpkg --remove -force --force-remove-reinstreq
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sed -i.bak
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: systemctl
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['status', 'start', 'restart', 'stop', 'enable']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: views
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: du -h
+Từ thực tế: -maxdepth=1
+Top 5 từ dự đoán: ['--max-depth=1', '-h', '<directory>', '--max-depth=0', '-d']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git clone <URL>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<URL>', 'ls', 'cd', 'sudo', '<directory>']
+
+Câu lệnh: git pull
+Từ thực tế: --merge
+Top 5 từ dự đoán: ['<directory>', '<string>', 'origin', '--rebase', '-v']
+
+Câu lệnh: systemctl
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['status', 'start', 'restart', 'stop', 'enable']
+
+Câu lệnh: cd
+Từ thực tế: github/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: pkill
+Từ thực tế: -h
+Top 5 từ dự đoán: ['<string>', 'picom', '-u', '<number>', 'yast']
+
+Câu lệnh: sudo cd -s
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: shuf
+Từ thực tế: --help
+Top 5 từ dự đoán: ['-n', '--h']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo pacman -S docker
+Từ thực tế: docker-compose
+Top 5 từ dự đoán: []
+
+Câu lệnh: git commit
+Từ thực tế: --amend
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: unzip -e
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git commit -a
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['-m', 'cd', 'ls', '-am', 'vim']
+
+Câu lệnh: find .
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['.', '-name', '-type', '-empty', '\\(']
+
+Câu lệnh: npm config rm
+Từ thực tế: proxy
+Top 5 từ dự đoán: ['<string>', 'rm']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git rm
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['--cached', '<string>', '-r', '-rf', '-f']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: read -p
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd ..
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['..', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: find -name="Charsets.h"
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git push
+Từ thực tế: --help
+Top 5 từ dự đoán: ['-u', '<URL>', '<string>', '--set-upstream', '-f']
+
+Câu lệnh: grep
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo apt
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'apt', '-y', 'remove']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo apt install --no-install-recommends
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git diff --cached
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['clear', '--cached']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: chsh
+Từ thực tế: --version
+Top 5 từ dự đoán: ['-s', '<string>', '-l', '--list-shells', 'mkdir']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: tmux
+Từ thực tế: -V
+Top 5 từ dự đoán: ['a', 'source', 'kill-session', 'ls', '<string>']
+
+Câu lệnh: curl -v -X POST
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['-d', '-H', '<URL>']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: systemctl enable --now --user
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: .config/nvim
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git push -u origin master
+Từ thực tế: -f
+Top 5 từ dự đoán: ['master', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: mkdir
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-p', '<directory>', 'ls', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo flatpak
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['override', 'update', 'install', '--update']
+
+Câu lệnh: curl
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>', '-u', '<URL>', '-X', '-v']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: .config/nvim
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: .config/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git push -u origin master
+Từ thực tế: -f
+Top 5 từ dự đoán: ['master', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git add -A
+Từ thực tế: .
+Top 5 từ dự đoán: ['ls', 'git', 'cd', '-A', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: tail -n5
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git clone --15.0 --branch
+Từ thực tế: <URL>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git -am
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: []
+
+Câu lệnh: git branch rm
+Từ thực tế: view
+Top 5 từ dự đoán: ['<string>', '-rf']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: python3 <file>
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: git add -f -vv
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git <directory> --get-all
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['-l']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: history
+Từ thực tế: -w
+Top 5 từ dự đoán: ['-a', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: test/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cut -csh
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['passwd']
+
+Câu lệnh: git push --mirror
+Từ thực tế: <URL>
+Top 5 từ dự đoán: []
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: github
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: grep
+Từ thực tế: "<string>"
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: git commit -m'use
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: man ls
+Từ thực tế: -C
+Top 5 từ dự đoán: ['ls', 'git']
+
+Câu lệnh: find . \( -name "<file>" -o -name "<file>" -o -name "<file>" -o -name "<file>" -o -name "<file>" -name "<file>" -o -name "<string>" -o -name "<file>" -o -name "<file>" -o -name "<file>" -o -name "<file>" -o -name "<file>" -o -name "<file>" \) -exec rm -rf -- {}
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['{}', '+']
+
+Câu lệnh: bash
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<file>', 'cd', 'ls', 'git', '<string>']
+
+Câu lệnh: npm -
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: <file>
+Từ thực tế: program
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: sudo mount
+Từ thực tế: -a
+Top 5 từ dự đoán: ['<directory>', '-t', '-o']
+
+Câu lệnh: sudo apt-get update
+Từ thực tế: -y
+Top 5 từ dự đoán: ['update', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sort
+Từ thực tế: -nk1,1
+Top 5 từ dự đoán: ['-g', '-u', 'ls', '-nr', 'cd']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: tar -xpf
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: views
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo apt
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'apt', '-y', 'remove']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: github/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: curl
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>', '-u', '<URL>', '-X', '-v']
+
+Câu lệnh: touch index.html
+Từ thực tế: <file>
+Top 5 từ dự đoán: []
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git commit
+Từ thực tế: -m"update"
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: uname
+Từ thực tế: --help
+Top 5 từ dự đoán: ['-a', '-r', '-m', 'ls', '-s']
+
+Câu lệnh: ls -rf
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: public_html/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git log --oneline --graph
+Từ thực tế: --parents
+Top 5 từ dự đoán: ['--all', '--decorate', '--graph']
+
+Câu lệnh: gpg
+Từ thực tế: --version
+Top 5 từ dự đoán: ['--verify', '#clon', '--dearmor', '--keyserver', '--recv-keys']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: dpkg
+Từ thực tế: --list
+Top 5 từ dự đoán: ['-i', '-l', '-L', '--configure', '-r']
+
+Câu lệnh: git submodule update
+Từ thực tế: --remote
+Top 5 từ dự đoán: ['--init', 'update', '--recursive']
+
+Câu lệnh: bash
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<file>', 'cd', 'ls', 'git', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: git log
+Từ thực tế: --pretty=oneline
+Top 5 từ dự đoán: ['--oneline', '<string>', '--graph', '--grep', '--diff-filter=D']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: vim -v
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['mkdir']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: read -a
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cat <file>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: cat -A
+Từ thực tế: <directory>
+Top 5 từ dự đoán: []
+
+Câu lệnh: git status
+Từ thực tế: --ignored
+Top 5 từ dự đoán: ['status', 'ls', 'cd', 'git', 'sudo']
+
+Câu lệnh: npm run dev
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['dev', 'ls', 'cd', 'git', 'clear']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: grep -r file
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: uniq
+Từ thực tế: -f1
+Top 5 từ dự đoán: ['ls', 'git', '-c', 'cd', '-u']
+
+Câu lệnh: sudo grep
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-y']
+
+Câu lệnh: cd
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
+Câu lệnh: cat
+Từ thực tế: -v
+Top 5 từ dự đoán: ['<string>', '<file>', '<directory>', '-n', 'id_rsa.pub']
+
+Câu lệnh: npm run
+Từ thực tế: devstart
+Top 5 từ dự đoán: ['dev', 'run', 'test', 'bench', '<string>']
+
+Câu lệnh: yarn
+Từ thực tế: -v
+Top 5 từ dự đoán: ['add', '<string>', 'install', 'dev', 'dev-migr-gen']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: grep
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '-i', '-r', '-E', '<file>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: public/
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git add -A
+Từ thực tế: .
+Top 5 từ dự đoán: ['ls', 'git', 'cd', '-A', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['install', 'apt-get', 'update', '-y', 'remove']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: snap
+Từ thực tế: --help
+Top 5 từ dự đoán: ['install', 'remove', '<string>', 'ls', 'uniq']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: sudo python3 <file>
+Từ thực tế: install
+Top 5 từ dự đoán: ['<file>', 'ls', 'cd', 'git', '--']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: bash
+Từ thực tế: -l
+Top 5 từ dự đoán: ['<file>', 'cd', 'ls', 'git', '<string>']
+
+Câu lệnh: git commit -m"fixed
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'start', 'i', '<string>']
+
+Câu lệnh: git commit
+Từ thực tế: --amend
+Top 5 từ dự đoán: ['-m', 'commit', '-am', '-a', 'ls']
+
+Câu lệnh: git rm --cached -f
+Từ thực tế: <string>
+Top 5 từ dự đoán: []
+
+Câu lệnh: df -h
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-h', 'ls', 'cd', '<directory>', 'sudo']
+
+Câu lệnh: ls
+Từ thực tế: -al
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: df -t
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['rm']
+
+Câu lệnh: ls
+Từ thực tế: -la
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: shutdown
+Top 5 từ dự đoán: ['apt-get', '<string>', 'apt', 'rm', 'systemctl']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git remote
+Từ thực tế: -h
+Top 5 từ dự đoán: ['add', '-v', 'set-url', '<string>', 'remove']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: cd
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '..', '<directory>', '../', 'ls']
+
+Câu lệnh: git
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['commit', 'status', 'add', 'push', 'remote']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['ls', 'cd', 'git', 'sudo', '<string>']
+
+Câu lệnh: git add
+Từ thực tế: --all
+Top 5 từ dự đoán: ['.', '<string>', 'add', '-A', '<file>']
+
