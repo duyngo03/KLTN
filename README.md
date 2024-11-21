@@ -23,3 +23,8 @@
     Modified Accuracy Top-1: 0.4939
     Modified Accuracy Top-3: 0.7298
     Modified Accuracy Top-5: 0.8023
+
+# evaluate 7 prev cmd:
+    Modified Accuracy Top-1: 0.5011
+    Modified Accuracy Top-3: 0.7344
+    Modified Accuracy Top-5: 0.8063
