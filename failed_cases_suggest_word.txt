@@ -1,0 +1,7444 @@
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: build
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: ls
+Từ thực tế: -Gl
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: npm run
+Từ thực tế: register
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: checkout
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: npm
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: br
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tmux
+Từ thực tế: ls
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: sudo
+Từ thực tế: ldconfig
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -altr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: --help
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ssh-keygen -f <directory> -R
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '</s>', '-N', '<number>', '<directory>']
+
+Câu lệnh: docker-compose
+Từ thực tế: build
+Top 5 từ dự đoán: ['up', 'logs', 'down', '</s>', 'stop']
+
+Câu lệnh: wget -t <number> --retry-connrefused -c -O
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', '-', '<directory>', '</s>', '<URL>']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ps
+Từ thực tế: -efww
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: sudo
+Từ thực tế: shutdown
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo killall -9 -q
+Từ thực tế: -w
+Top 5 từ dự đoán: ['-O', '<string>', '</s>', '<URL>', '-U']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -xAh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo snap install vscode
+Từ thực tế: --classic
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: --help
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -ls
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: npm run
+Từ thực tế: package
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: npm
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ps
+Từ thực tế: ux
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: curl -kL
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: npm
+Từ thực tế: test
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -AF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: --v
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: config
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: wget -q -O
+Từ thực tế: -http://10.0.0.10:30168
+Top 5 từ dự đoán: ['<file>', '-', '<directory>', '</s>', '<URL>']
+
+Câu lệnh: sudo
+Từ thực tế: rsync
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: ls-files
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: lsof
+Từ thực tế: -i:9030
+Top 5 từ dự đoán: ['-i', '</s>', '-p', '-n', '-u']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stage
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -F
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: devstart
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: ls
+Từ thực tế: -latr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: set
+Từ thực tế: -x
+Top 5 từ dự đoán: ['<string>', '</s>', '-o', '-e', '-ex']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm install long
+Từ thực tế: --save
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: xargs docker rm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['</s>', '<string>', 'corrade', '-f', '-rf']
+
+Câu lệnh: ls
+Từ thực tế: -lt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm
+Từ thực tế: update
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git commit
+Từ thực tế: -m"hhhh"
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: read
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-p', '-r', '<string>', '-rp', '-s']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo apt-get install fonts-noto-color-emoji
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: docker system prune
+Từ thực tế: --volumes
+Top 5 từ dự đoán: ['-a', '-af', '</s>', '<string>', 'ls']
+
+Câu lệnh: tail
+Từ thực tế: -${cols}
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stauts
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -altr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -aF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: tcpdump
+Từ thực tế: --help
+Top 5 từ dự đoán: ['-i', '</s>', '-D', '-w', '--list-interfaces']
+
+Câu lệnh: set
+Từ thực tế: -x
+Top 5 từ dự đoán: ['<string>', '</s>', '-o', '-e', '-ex']
+
+Câu lệnh: mkdir -v <string>
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['</s>', '<directory>', '<string>', '-name', '-d']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: source
+Từ thực tế: -v
+Top 5 từ dự đoán: ['<string>', '<file>', '<directory>', '</s>', 'config']
+
+Câu lệnh: git checkout
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '-b', 'master', '</s>', '--']
+
+Câu lệnh: ls
+Từ thực tế: -lisa
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: apt
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['install', 'list', 'update', 'search', 'upgrade']
+
+Câu lệnh: ls
+Từ thực tế: ..
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ps
+Từ thực tế: -ae
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git
+Từ thực tế: please
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lart
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find <directory> -type <string>
+Từ thực tế: -ls
+Top 5 từ dự đoán: ['-name', '-execdir', '</s>', '-exec', '-print']
+
+Câu lệnh: python3 -m <string>
+Từ thực tế: --version
+Top 5 từ dự đoán: ['</s>', 'install', 'venv', 'list', '-V']
+
+Câu lệnh: gzip
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<string>', '-d', '--best', '</s>', '-c']
+
+Câu lệnh: npx
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', 'create-react-app', 'shadcn-ui@latest', 'tailwindcss', 'tslint']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: df
+Từ thực tế: -k
+Top 5 từ dự đoán: ['-h', '</s>', '-lh', '#', '-H']
+
+Câu lệnh: ls
+Từ thực tế: -alF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: screen
+Từ thực tế: -wipe
+Top 5 từ dự đoán: ['-r', '</s>', '-ls', '-rd', '-S']
+
+Câu lệnh: ls
+Từ thực tế: -lrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls -alF
+Từ thực tế: --color=<string>
+Top 5 từ dự đoán: ['</s>', '-n', '<string>', 'ls', 'git']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -i
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: docker stop
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', 'boost', 'bigballers', '</s>', 'uwsgi']
+
+Câu lệnh: ls
+Từ thực tế: -haltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: find
+Từ thực tế: src
+Top 5 từ dự đoán: ['.', '<directory>', '-name', '$dir', '</s>']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: wget
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<URL>', '-q', '-O', '-r', '--no-check-certificate']
+
+Câu lệnh: sudo
+Từ thực tế: make
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: apt-get
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'autoremove']
+
+Câu lệnh: tail
+Từ thực tế: -n7
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: rm
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '-rf', '-r', '-f', '-fr']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm
+Từ thực tế: publish
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: ls
+Từ thực tế: -alF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: npm
+Từ thực tế: --version
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: sudo apt
+Từ thực tế: -h
+Top 5 từ dự đoán: ['install', 'update', 'upgrade', '-y', 'remove']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: watch
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: sudo systemctl enable NetworkManager
+Từ thực tế: --now
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: systemctl
+Từ thực tế: daemon-reload
+Top 5 từ dự đoán: ['status', 'start', 'stop', 'restart', '--user']
+
+Câu lệnh: sudo git
+Từ thực tế: init
+Top 5 từ dự đoán: ['pull', 'clone', 'add', 'push', 'commit']
+
+Câu lệnh: ls
+Từ thực tế: -alX
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: cut
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-d', '-f', '-c', "-d'", '-f1']
+
+Câu lệnh: shutdown
+Từ thực tế: -now
+Top 5 từ dự đoán: ['-h', '</s>', 'now', '-r', '-hP']
+
+Câu lệnh: npm run
+Từ thực tế: prod
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: npm run
+Từ thực tế: build
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -alt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -altr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ps
+Từ thực tế: axfu
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git config --list
+Từ thực tế: --show-origin
+Top 5 từ dự đoán: ['</s>', '--local', '<string>', '--all', 'ls']
+
+Câu lệnh: git
+Từ thực tế: clone
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git checkout <string>
+Từ thực tế: --force
+Top 5 từ dự đoán: ['</s>', '--', '<string>', 'ls', '-o']
+
+Câu lệnh: ls <directory>
+Từ thực tế: -r
+Top 5 từ dự đoán: ['-l', '</s>', '-a', '-al', '-ld']
+
+Câu lệnh: ssh-add
+Từ thực tế: -L
+Top 5 từ dự đoán: ['<directory>', '</s>', '-K', '-l', '--apple-use-keychain']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git push -u <string>
+Từ thực tế: detail
+Top 5 từ dự đoán: ['master', 'main', '</s>', 'bryan-guner', '-H']
+
+Câu lệnh: ls
+Từ thực tế: -las
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: checkout
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: apt-get
+Từ thực tế: clean
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'autoremove']
+
+Câu lệnh: ls
+Từ thực tế: -1
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo pacman
+Từ thực tế: -Fyy
+Top 5 từ dự đoán: ['-S', '-Syyu', '-Syu', '-Ss', '-Q']
+
+Câu lệnh: systemctl
+Từ thực tế: list-units
+Top 5 từ dự đoán: ['status', 'start', 'stop', 'restart', '--user']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo snap alias
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '</s>', '<directory>', 'ls', '-p']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo systemctl
+Từ thực tế: daemon-reload
+Top 5 từ dự đoán: ['start', 'status', 'restart', 'enable', 'stop']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: dpkg
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-l', '-i', '--get-selections', '-L', '--list']
+
+Câu lệnh: curl -s -D- -onul
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo
+Từ thực tế: raspi-config
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: xrandr
+Từ thực tế: --list
+Top 5 từ dự đoán: ['</s>', '--output', '-q', '--listmonitors', '-d']
+
+Câu lệnh: apt-get install libxslt-dev
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt install code
+Từ thực tế: -y
+Top 5 từ dự đoán: ['--classic', '.', '<string>', '</s>', '<file>']
+
+Câu lệnh: head
+Từ thực tế: -n1\
+Top 5 từ dự đoán: ['-n', '</s>', '-1', '-y', '<filename>']
+
+Câu lệnh: ls
+Từ thực tế: -lr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: df
+Từ thực tế: -hT
+Top 5 từ dự đoán: ['-h', '</s>', '-lh', '#', '-H']
+
+Câu lệnh: git config
+Từ thực tế: -l
+Top 5 từ dự đoán: ['--global', '<file>', '--list', '--add', '</s>']
+
+Câu lệnh: git rm --cached <string>
+Từ thực tế: -rf
+Top 5 từ dự đoán: ['</s>', '-f', '<string>', 'ls', '-o']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: python3 <file>
+Từ thực tế: --snapshot
+Top 5 từ dự đoán: ['</s>', '--', '--model-path', '--epochs', '-sI']
+
+Câu lệnh: git
+Từ thực tế: --help
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tail
+Từ thực tế: -5
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: ls
+Từ thực tế: -lrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git pull
+Từ thực tế: --force
+Top 5 từ dự đoán: ['</s>', 'origin', '--rebase', '-f', 'upstream']
+
+Câu lệnh: ls
+Từ thực tế: -arlt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git merge
+Từ thực tế: --continue
+Top 5 từ dự đoán: ['<string>', '</s>', 'develop', '--abort', '<directory>']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: date
+Từ thực tế: -h
+Top 5 từ dự đoán: ['</s>', '<string>', '-u', '-f', '--help']
+
+Câu lệnh: sudo git branch
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['</s>', '-M', '-a', '2>', '-D']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: touch
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '<file>', '</s>', '<directory>', '-r']
+
+Câu lệnh: sudo light -Q
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -lisa
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo systemctl
+Từ thực tế: daemon-reload
+Top 5 từ dự đoán: ['start', 'status', 'restart', 'enable', 'stop']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: -s
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git add
+Từ thực tế: -p
+Top 5 từ dự đoán: ['.', '<string>', '-A', '</s>', '--all']
+
+Câu lệnh: chmod
+Từ thực tế: --help
+Top 5 từ dự đoán: ['+x', '<number>', '<string>', 'u+x', '-x']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git merge
+Từ thực tế: --countinue
+Top 5 từ dự đoán: ['<string>', '</s>', 'develop', '--abort', '<directory>']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: git commit
+Từ thực tế: -m"update"
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo nvidia-xconfig -a --cool-bits=<number> --cool-bits=<number>
+Từ thực tế: --cool-bits=<number>
+Top 5 từ dự đoán: ['--allow-empty-initial-configuration', '</s>', '<string>', 'ls', 'git']
+
+Câu lệnh: shuf
+Từ thực tế: --h
+Top 5 từ dự đoán: ['-n', '</s>', '<file>', '<string>', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: kscript
+Từ thực tế: --clear-cache
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo docker
+Từ thực tế: images
+Top 5 từ dự đoán: ['run', 'rm', 'kill', 'ps', 'exec']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npx create-react-app my-app --template <directory> --use-npm
+Từ thực tế: -f
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo rpm -qlp
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git ls-files -co
+Từ thực tế: --exclude-standard
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: config
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: cd
+Từ thực tế: -a
+Top 5 từ dự đoán: ['<string>', '<directory>', '..', '</s>', '-']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: gpg
+Từ thực tế: --gen-key
+Top 5 từ dự đoán: ['--verify', '--dearmor', '--keyserver', '--help', '--recv-keys']
+
+Câu lệnh: git
+Từ thực tế: restore
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ps
+Từ thực tế: -eal
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: sudo dnf config-manager --remove-repo
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: curl
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '<URL>', '-fsSL', '-s', '-sL']
+
+Câu lệnh: systemctl
+Từ thực tế: --version
+Top 5 từ dự đoán: ['status', 'start', 'stop', 'restart', '--user']
+
+Câu lệnh: ssh
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', 'dirlic@10.18.0.39', '-i', '-p', '-t']
+
+Câu lệnh: git
+Từ thực tế: checkout
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo pacman-mirrors
+Từ thực tế: -f0
+Top 5 từ dự đoán: ['-g', '-f5', '--interactive', '-f8', '</s>']
+
+Câu lệnh: npm run
+Từ thực tế: register
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: projects
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git show
+Từ thực tế: --format=<string>
+Top 5 từ dự đoán: ['<string>', '</s>', 'origin', '--pretty=<string>', '-p']
+
+Câu lệnh: npm build
+Từ thực tế: --prod
+Top 5 từ dự đoán: ['</s>', '-t', '<string>', '<file>', 'teh-germinator']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: head
+Từ thực tế: -n1
+Top 5 từ dự đoán: ['-n', '</s>', '-1', '-y', '<filename>']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: make
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: pacman
+Từ thực tế: -Syy
+Top 5 từ dự đoán: ['-S', '-Scc', '-Syu', '--noconfirm', '</s>']
+
+Câu lệnh: systemctl
+Từ thực tế: daemon-reload
+Top 5 từ dự đoán: ['status', 'start', 'stop', 'restart', '--user']
+
+Câu lệnh: git
+Từ thực tế: --virsion
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: head
+Từ thực tế: -n1
+Top 5 từ dự đoán: ['-n', '</s>', '-1', '-y', '<filename>']
+
+Câu lệnh: mvn
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['compile', 'clean', 'exec:java', 'install', '-e']
+
+Câu lệnh: df
+Từ thực tế: -Th
+Top 5 từ dự đoán: ['-h', '</s>', '-lh', '#', '-H']
+
+Câu lệnh: git
+Từ thực tế: add.
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: fzf --height <string> --reverse
+Từ thực tế: --inline-info)"
+Top 5 từ dự đoán: ['</s>', '<string>', '--topo-order', 'ls', 'git']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: docker-compose
+Từ thực tế: --version
+Top 5 từ dự đoán: ['up', 'logs', 'down', '</s>', 'stop']
+
+Câu lệnh: git pull
+Từ thực tế: --ff
+Top 5 từ dự đoán: ['</s>', 'origin', '--rebase', '-f', 'upstream']
+
+Câu lệnh: tail
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: git checkout
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '-b', 'master', '</s>', '--']
+
+Câu lệnh: pkill
+Từ thực tế: -h
+Top 5 từ dự đoán: ['<string>', 'picom', '</s>', '-f', '-u']
+
+Câu lệnh: sudo apt install openjdk-8-jdk
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -alF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git add
+Từ thực tế: -all
+Top 5 từ dự đoán: ['.', '<string>', '-A', '</s>', '--all']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: hexdump
+Từ thực tế: -h
+Top 5 từ dự đoán: ['<file>', '-c', '-C', '-b', '</s>']
+
+Câu lệnh: ps
+Từ thực tế: -aux
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: find <directory> -type <string>
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['-name', '-execdir', '</s>', '-exec', '-print']
+
+Câu lệnh: curl -F"shorten=<string>
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: ls-files
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -1
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: find . -type <string>
+Từ thực tế: -mindepth=<number>
+Top 5 từ dự đoán: ['-exec', '-name', '</s>', '-a', '-print']
+
+Câu lệnh: sudo pgrep
+Từ thực tế: -a
+Top 5 từ dự đoán: ['<string>', '</s>', 'ls', 'git', 'cd']
+
+Câu lệnh: git pull
+Từ thực tế: --no-rebase
+Top 5 từ dự đoán: ['</s>', 'origin', '--rebase', '-f', 'upstream']
+
+Câu lệnh: ls
+Từ thực tế: -altr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: restart
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo dnf install lame\*
+Từ thực tế: --exclude=<string>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: docker run
+Từ thực tế: --help
+Top 5 từ dự đoán: ['-d', '<string>', '-it', '--rm', '-v']
+
+Câu lệnh: npm run
+Từ thực tế: build
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: ls
+Từ thực tế: -G
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: ntpdate
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: openssl version
+Từ thực tế: -a\
+Top 5 từ dự đoán: ['-a', '--short', '</s>', '<string>', 'ls']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo oor
+Từ thực tế: -D
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: python3 <file>
+Từ thực tế: --num_gpus=<number>
+Top 5 từ dự đoán: ['</s>', '--', '--model-path', '--epochs', '-sI']
+
+Câu lệnh: ls
+Từ thực tế: -l/
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: vim
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<file>', '</s>', '<directory>', '<string>', '-O']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: curl -fssl
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: clear
+Từ thực tế: -ls
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl -1sLf
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git commit
+Từ thực tế: -m"add"
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git remote
+Từ thực tế: rm
+Top 5 từ dự đoán: ['add', '-v', 'set-url', 'remove', '</s>']
+
+Câu lệnh: git push
+Từ thực tế: --force
+Top 5 từ dự đoán: ['</s>', '-u', 'origin', '--set-upstream', '-f']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: clone
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: xrandr
+Từ thực tế: -list
+Top 5 từ dự đoán: ['</s>', '--output', '-q', '--listmonitors', '-d']
+
+Câu lệnh: ls
+Từ thực tế: -las
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: xrandr
+Từ thực tế: --listactivemonitors
+Top 5 từ dự đoán: ['</s>', '--output', '-q', '--listmonitors', '-d']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: find
+Từ thực tế: --help
+Top 5 từ dự đoán: ['.', '<directory>', '-name', '$dir', '</s>']
+
+Câu lệnh: touch
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<string>', '<file>', '</s>', '<directory>', '-r']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo openvpn
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['--config', '--genkey', '</s>', '<string>', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -art
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -r
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: npm
+Từ thực tế: update
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git push github
+Từ thực tế: --tags
+Top 5 từ dự đoán: ['--all', '<string>', '</s>', 'ls', 'git']
+
+Câu lệnh: ps
+Từ thực tế: -e
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git
+Từ thực tế: info
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find . -name <string>
+Từ thực tế: -delete
+Top 5 từ dự đoán: ['-type', '-o', '</s>', '-exec', '-print']
+
+Câu lệnh: find
+Từ thực tế: src
+Top 5 từ dự đoán: ['.', '<directory>', '-name', '$dir', '</s>']
+
+Câu lệnh: sudo
+Từ thực tế: sleep
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: wget
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<URL>', '-q', '-O', '-r', '--no-check-certificate']
+
+Câu lệnh: npm run
+Từ thực tế: make
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: npm --version
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo dpkg
+Từ thực tế: --get-selections
+Top 5 từ dự đoán: ['-i', '--configure', '-r', '--clear-selections', '--remove']
+
+Câu lệnh: ps
+Từ thực tế: -ux
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git clone
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<URL>', '--depth', '--depth=<number>', '</s>', '-b']
+
+Câu lệnh: sudo systemctl
+Từ thực tế: daemon-reload
+Top 5 từ dự đoán: ['start', 'status', 'restart', 'enable', 'stop']
+
+Câu lệnh: ls
+Từ thực tế: -lX
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git add
+Từ thực tế: -n
+Top 5 từ dự đoán: ['.', '<string>', '-A', '</s>', '--all']
+
+Câu lệnh: apt
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['install', 'list', 'update', 'search', 'upgrade']
+
+Câu lệnh: ps
+Từ thực tế: auxf
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git
+Từ thực tế: ls-files
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo sshfs
+Từ thực tế: -h
+Top 5 từ dự đoán: ['-o', '--help', '</s>', '<string>', 'ls']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: xargs
+Từ thực tế: cat
+Top 5 từ dự đoán: ['-L1', '-0', 'grep', '-n1', 'sed']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo -H <string> install keras_applications
+Từ thực tế: --no-deps
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: df
+Từ thực tế: -n
+Top 5 từ dự đoán: ['-h', '</s>', '-lh', '#', '-H']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: clear
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: df -H
+Từ thực tế: --output=<string>
+Top 5 từ dự đoán: ['</s>', '<string>', '<directory>', '<file>', '-R']
+
+Câu lệnh: head -2
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['</s>', '-e', '<string>', '<number>', 'ls']
+
+Câu lệnh: git
+Từ thực tế: reset
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find <string> -exec <string>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-c', '-i', '-rf', '</s>', '<directory>']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: link
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt install code
+Từ thực tế: -y
+Top 5 từ dự đoán: ['--classic', '.', '<string>', '</s>', '<file>']
+
+Câu lệnh: xsel
+Từ thực tế: --clipboard
+Top 5 từ dự đoán: ['-l', '-y', '</s>', '<string>', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm
+Từ thực tế: help
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: perl
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<file>', '</s>', '-ne', '-e', '-pe']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '<URL>', '-fsSL', '-s', '-sL']
+
+Câu lệnh: git
+Từ thực tế: hist
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find
+Từ thực tế: src
+Top 5 từ dự đoán: ['.', '<directory>', '-name', '$dir', '</s>']
+
+Câu lệnh: git checkout
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '-b', 'master', '</s>', '--']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: check
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'remove']
+
+Câu lệnh: cat -n -s
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '<directory>', '</s>', '-n', '-u']
+
+Câu lệnh: ps
+Từ thực tế: auxf
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: <file>
+Từ thực tế: --hel
+Top 5 từ dự đoán: ['program', '<file>', '-', '</s>', '-m']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -ll
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt source
+Từ thực tế: pulseaudio
+Top 5 từ dự đoán: ['<string>', '<file>', '<directory>', '</s>', 'ls']
+
+Câu lệnh: npm run
+Từ thực tế: watch
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: npm run
+Từ thực tế: develop
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<string>', '<URL>', '-fsSL', '-s', '-sL']
+
+Câu lệnh: rm Desktop
+Từ thực tế: -rf
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git add
+Từ thực tế: -u
+Top 5 từ dự đoán: ['.', '<string>', '-A', '</s>', '--all']
+
+Câu lệnh: find <directory> -iname <file> -atime <string> -type <string> -exec <string>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-c', '-i', '-rf', '</s>', '<directory>']
+
+Câu lệnh: npm run
+Từ thực tế: devstart
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: pulseaudio
+Từ thực tế: --check
+Top 5 từ dự đoán: ['</s>', '-v', '-k', '--start', '-vvvv']
+
+Câu lệnh: sudo apt-get install -y <string>
+Từ thực tế: --allow-unauthenticated
+Top 5 từ dự đoán: ['</s>', '<string>', '-r`', '--setopt', '--no-install-recommends']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: tmux
+Từ thực tế: info
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: systemctl daemon-reload
+Từ thực tế: --user
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: xrandr
+Từ thực tế: -list
+Top 5 từ dự đoán: ['</s>', '--output', '-q', '--listmonitors', '-d']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: shutdown
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -lT
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: _build
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: autoremove
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'remove']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: prod
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -tlr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: find . -type <string> -name <string>
+Từ thực tế: -delete
+Top 5 từ dự đoán: ['</s>', '-exec', '-o', '-type', '-print0']
+
+Câu lệnh: rm
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '-rf', '-r', '-f', '-fr']
+
+Câu lệnh: sudo apt install
+Từ thực tế: -f
+Top 5 từ dự đoán: ['<string>', '-y', '</s>', '--fix-broken', 'git']
+
+Câu lệnh: sudo
+Từ thực tế: updatedb
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: curl
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '<URL>', '-fsSL', '-s', '-sL']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: clean
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'remove']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ip
+Từ thực tế: -a
+Top 5 từ dự đoán: ['a', 'addr', '</s>', 'route', 'link']
+
+Câu lệnh: ls <directory>
+Từ thực tế: -la
+Top 5 từ dự đoán: ['-l', '</s>', '-a', '-al', '-ld']
+
+Câu lệnh: ls
+Từ thực tế: ..
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo systemctl
+Từ thực tế: daemon-reload
+Top 5 từ dự đoán: ['start', 'status', 'restart', 'enable', 'stop']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git push
+Từ thực tế: --force
+Top 5 từ dự đoán: ['</s>', '-u', 'origin', '--set-upstream', '-f']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find . -type <string>
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['-exec', '-name', '</s>', '-a', '-print']
+
+Câu lệnh: sudo
+Từ thực tế: ldconfig
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: rm -rf <string>
+Từ thực tế: -f
+Top 5 từ dự đoán: ['</s>', '+', '<string>', 'ls', '-o']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: checkout
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: byobu
+Từ thực tế: -v
+Top 5 từ dự đoán: ['--help', '--version', '</s>', '<string>', 'ls']
+
+Câu lệnh: sudo
+Từ thực tế: raspi-config
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm
+Từ thực tế: update
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: ls
+Từ thực tế: -ltrh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: dpkg
+Từ thực tế: --info
+Top 5 từ dự đoán: ['-l', '-i', '--get-selections', '-L', '--list']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: chmod
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['+x', '<number>', '<string>', 'u+x', '-x']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: add.
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl --compressed
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-o-', '-o', '-q', '-L', '</s>']
+
+Câu lệnh: service
+Từ thực tế: --status-all
+Top 5 từ dự đoán: ['apache2', '<string>', '</s>', 'nginx', 'mysqld']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git pull upstream <string>
+Từ thực tế: --no-edit
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', '-o', 'git']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: history
+Từ thực tế: tail
+Top 5 từ dự đoán: ['</s>', '-a', '-c', '-r', '#']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: history
+Từ thực tế: -n
+Top 5 từ dự đoán: ['</s>', '-a', '-c', '-r', '#']
+
+Câu lệnh: git
+Từ thực tế: merge
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: --v
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ps
+Từ thực tế: -ae
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git config
+Từ thực tế: --get-all
+Top 5 từ dự đoán: ['--global', '<file>', '--list', '--add', '</s>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: php
+Từ thực tế: --version
+Top 5 từ dự đoán: ['artisan', '</s>', '<file>', '-r', '-v']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: systemctl
+Từ thực tế: --help
+Top 5 từ dự đoán: ['status', 'start', 'stop', 'restart', '--user']
+
+Câu lệnh: update-alternatives
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['--list', '--config', '--install', '<string>', '--set']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: grep
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: head
+Từ thực tế: -n1
+Top 5 từ dự đoán: ['-n', '</s>', '-1', '-y', '<filename>']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: --help
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt
+Từ thực tế: autoremove
+Top 5 từ dự đoán: ['install', 'update', 'upgrade', '-y', 'remove']
+
+Câu lệnh: ls
+Từ thực tế: -ca
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git log <directory>
+Từ thực tế: --oneline
+Top 5 từ dự đoán: ['</s>', '<file>', '<string>', '<directory>', '-v']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo restart
+Từ thực tế: -h
+Top 5 từ dự đoán: ['<string>', '</s>', '--help', 'nginx', '<file>']
+
+Câu lệnh: git
+Từ thực tế: reflog
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo pacman
+Từ thực tế: -Qs
+Top 5 từ dự đoán: ['-S', '-Syyu', '-Syu', '-Ss', '-Q']
+
+Câu lệnh: find Personal -name <file> -type <string>
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['-exec', '-print', '</s>', '-name', '-a']
+
+Câu lệnh: gsort
+Từ thực tế: -h
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: clone
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find
+Từ thực tế: -ls
+Top 5 từ dự đoán: ['.', '<directory>', '-name', '$dir', '</s>']
+
+Câu lệnh: sudo apt-get install iptables
+Từ thực tế: -y
+Top 5 từ dự đoán: ['--fix-missing', '-t', '-A', '-L', '</s>']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sort
+Từ thực tế: -hr
+Top 5 từ dự đoán: ['</s>', '-u', '-n', '-nr', '-g']
+
+Câu lệnh: ps
+Từ thực tế: axfu
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: ls
+Từ thực tế: -tlr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: curl -vk
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: clone
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: mysql
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -lCl
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: xrandr
+Từ thực tế: --listactivemonitors
+Top 5 từ dự đoán: ['</s>', '--output', '-q', '--listmonitors', '-d']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: grep -wc
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '</s>', 'ls', 'git', 'cd']
+
+Câu lệnh: sed
+Từ thực tế: --version
+Top 5 từ dự đoán: ['-i', '<directory>', '-e', '-E', '-n']
+
+Câu lệnh: mvn install:install-file -Dfile=<file> -DgroupId=<string> -DartifactId=<file> -Dversion=<string> -Dpackaging=<string> -DgeneratePom=<string> -Dspring.test.skip=<string>
+Từ thực tế: -Dspring.profiles.active=<string>
+Top 5 từ dự đoán: ['</s>', '--spring.profiles.active=<string>', '<string>', 'ls', 'git']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: add.
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: du
+Từ thực tế: -ach
+Top 5 từ dự đoán: ['-sh', '-h', '-skh', '</s>', '<filename>']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: uname
+Từ thực tế: -v
+Top 5 từ dự đoán: ['-a', '</s>', '-r', '-s', '-m']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: -V
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: shutdown
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: python
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: adog
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: set
+Từ thực tế: -u\
+Top 5 từ dự đoán: ['<string>', '</s>', '-o', '-e', '-ex']
+
+Câu lệnh: sudo tar --extract --file=<string> --strip-components=<number>
+Từ thực tế: --directory=<string>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo
+Từ thực tế: ldconfig
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git touch
+Từ thực tế: bob
+Top 5 từ dự đoán: ['<file>', '</s>', '<string>', '<directory>', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -alF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: du
+Từ thực tế: -hs
+Top 5 từ dự đoán: ['-sh', '-h', '-skh', '</s>', '<filename>']
+
+Câu lệnh: npm run
+Từ thực tế: test:watch
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: sudo nginx
+Từ thực tế: help
+Top 5 từ dự đoán: ['-t', '-s', '</s>', '-h', '-help']
+
+Câu lệnh: sudo inxi -v <number>
+Từ thực tế: -AGN
+Top 5 từ dự đoán: ['</s>', '<string>', '<directory>', '<URL>', 'ls']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git branch
+Từ thực tế: view
+Top 5 từ dự đoán: ['</s>', '-M', '-a', '2>', '-D']
+
+Câu lệnh: git
+Từ thực tế: please
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -alh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git config --set
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '</s>', '-upstream', 'ls', 'git']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo <directory>
+Từ thực tế: --config.file=<directory>
+Top 5 từ dự đoán: ['restart', '<string>', '-s', '</s>', '-R']
+
+Câu lệnh: npm
+Từ thực tế: test
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: read
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-p', '-r', '<string>', '-rp', '-s']
+
+Câu lệnh: npm run
+Từ thực tế: build
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: --oneline
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -G
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: reset
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ps
+Từ thực tế: ux
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '<URL>', '-fsSL', '-s', '-sL']
+
+Câu lệnh: ls
+Từ thực tế: -ltra
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: systemctl
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['status', 'start', 'stop', 'restart', '--user']
+
+Câu lệnh: tail
+Từ thực tế: -n2000
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: sudo <directory>
+Từ thực tế: --config.file=<directory>
+Top 5 từ dự đoán: ['restart', '<string>', '-s', '</s>', '-R']
+
+Câu lệnh: tail
+Từ thực tế: -1)"\
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: bash -s <string>
+Từ thực tế: --rails
+Top 5 từ dự đoán: ['--ruby', '</s>', 'only', '-X', '<string>']
+
+Câu lệnh: git push
+Từ thực tế: origin2
+Top 5 từ dự đoán: ['</s>', '-u', 'origin', '--set-upstream', '-f']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: prod
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: sudo
+Từ thực tế: shutdown
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: grep
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: git
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: docker
+Từ thực tế: -v
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: head
+Từ thực tế: -n1
+Top 5 từ dự đoán: ['-n', '</s>', '-1', '-y', '<filename>']
+
+Câu lệnh: apt-get install webmin
+Từ thực tế: --install-recommends
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sort
+Từ thực tế: -h
+Top 5 từ dự đoán: ['</s>', '-u', '-n', '-nr', '-g']
+
+Câu lệnh: git
+Từ thực tế: --help
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find . -type <string>
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['-exec', '-name', '</s>', '-a', '-print']
+
+Câu lệnh: npm i semvar
+Từ thực tế: -g
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: grep
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: curl 172.17.48.70:8080
+Từ thực tế: --silent
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: docker
+Từ thực tế: login
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git add
+Từ thực tế: -n
+Top 5 từ dự đoán: ['.', '<string>', '-A', '</s>', '--all']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: top
+Từ thực tế: -h
+Top 5 từ dự đoán: ['</s>', '-n', '-p', '-c', '<string>']
+
+Câu lệnh: git reset HEAD^
+Từ thực tế: --hard
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: bash
+Từ thực tế: -l
+Top 5 từ dự đoán: ['</s>', '<file>', '--version', '-v', '--help']
+
+Câu lệnh: ls
+Từ thực tế: -ltra
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git branch
+Từ thực tế: -vv
+Top 5 từ dự đoán: ['</s>', '-M', '-a', '2>', '-D']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: du -h
+Từ thực tế: --max-dept=<number>
+Top 5 từ dự đoán: ['</s>', '--max-depth=<number>', '<directory>', '-d', '-x']
+
+Câu lệnh: kubectl create -f
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['-', '<string>', '</s>', '<directory>', '<number>']
+
+Câu lệnh: npm install
+Từ thực tế: --only=<string>
+Top 5 từ dự đoán: ['</s>', '<string>', '-g', '--save', '-f']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt-get install dnsmasq
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo fstrim
+Từ thực tế: -av
+Top 5 từ dự đoán: ['--fstab', '</s>', '<string>', 'ls', 'git']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: build
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: df
+Từ thực tế: -ah
+Top 5 từ dự đoán: ['-h', '</s>', '-lh', '#', '-H']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ps
+Từ thực tế: -a
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm run
+Từ thực tế: devstart
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git commit
+Từ thực tế: -am'first'
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: du
+Từ thực tế: -ach
+Top 5 từ dự đoán: ['-sh', '-h', '-skh', '</s>', '<filename>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm run
+Từ thực tế: build
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: mkdir -p
+Từ thực tế: -public/images
+Top 5 từ dự đoán: ['<string>', '<directory>', '<number>', '</s>', '--']
+
+Câu lệnh: tmux
+Từ thực tế: -v
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ssh
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', 'dirlic@10.18.0.39', '-i', '-p', '-t']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: merge
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tmux
+Từ thực tế: attach
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo rm <directory>
+Từ thực tế: -Rf
+Top 5 từ dự đoán: ['-rf', '-r', '</s>', '-fr', '-f']
+
+Câu lệnh: npm run
+Từ thực tế: devstart
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git push
+Từ thực tế: --help
+Top 5 từ dự đoán: ['</s>', '-u', 'origin', '--set-upstream', '-f']
+
+Câu lệnh: npm start
+Từ thực tế: --production
+Top 5 từ dự đoán: ['</s>', '--active-arch-only', '<string>', '--', 'uwsgi']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git pull
+Từ thực tế: -v
+Top 5 từ dự đoán: ['</s>', 'origin', '--rebase', '-f', 'upstream']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -R
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ps
+Từ thực tế: axfu
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ps
+Từ thực tế: -aux
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm jest
+Từ thực tế: --clearCache
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git diff
+Từ thực tế: --color-words=<string>
+Top 5 từ dự đoán: ['</s>', '<string>', '<directory>', '--no-ext-diff', '<file>']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git rm -r <directory>
+Từ thực tế: -f
+Top 5 từ dự đoán: ['</s>', '>', '<file>', '<string>', '-e']
+
+Câu lệnh: tmux
+Từ thực tế: -V
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: dpkg
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-l', '-i', '--get-selections', '-L', '--list']
+
+Câu lệnh: npm run
+Từ thực tế: build
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: docker
+Từ thực tế: history
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo snap install go
+Từ thực tế: --classic
+Top 5 từ dự đoán: ['run', '<string>', '</s>', 'test', 'build']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -R
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo npm install -g <string>
+Từ thực tế: -f
+Top 5 từ dự đoán: ['</s>', '<string>', '--unsafe-perm=<string>', '-m', '-p']
+
+Câu lệnh: unique
+Từ thực tế: -t
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: update
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tail
+Từ thực tế: -n10
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -altr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo pacman
+Từ thực tế: -Syyuu
+Top 5 từ dự đoán: ['-S', '-Syyu', '-Syu', '-Ss', '-Q']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git stash
+Từ thực tế: --help
+Top 5 từ dự đoán: ['</s>', 'pop', 'apply', 'list', 'clear']
+
+Câu lệnh: npm run
+Từ thực tế: watch
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: read
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-p', '-r', '<string>', '-rp', '-s']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tmux
+Từ thực tế: -a
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: find . -name <string>
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['-type', '-o', '</s>', '-exec', '-print']
+
+Câu lệnh: chmod u+w <directory>
+Từ thực tế: -R
+Top 5 từ dự đoán: ['</s>', '<file>', '<string>', '<directory>', '-v']
+
+Câu lệnh: sudo apt-key add
+Từ thực tế: -`
+Top 5 từ dự đoán: ['-', '-\\', '</s>', '.', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git --user
+Từ thực tế: -config
+Top 5 từ dự đoán: ['<string>', '</s>', '--upgrade', '<file>', '--name=<string>']
+
+Câu lệnh: lsblk
+Từ thực tế: -fs
+Top 5 từ dự đoán: ['</s>', '-O', '-f', '-l', '-h']
+
+Câu lệnh: sudo
+Từ thực tế: -s
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git clone <URL>
+Từ thực tế: --depth=<number>
+Top 5 từ dự đoán: ['</s>', '--branch', '--depth', '<string>', '--force']
+
+Câu lệnh: git
+Từ thực tế: --help
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -l,a
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find . -type <string>
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['-exec', '-name', '</s>', '-a', '-print']
+
+Câu lệnh: sudo apt
+Từ thực tế: autoremove
+Top 5 từ dự đoán: ['install', 'update', 'upgrade', '-y', 'remove']
+
+Câu lệnh: sudo apt-get remove tex-common
+Từ thực tế: --purge\
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: source
+Từ thực tế: -v
+Top 5 từ dự đoán: ['<string>', '<file>', '<directory>', '</s>', 'config']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: du -k
+Từ thực tế: --max-depth=<number>
+Top 5 từ dự đoán: ['<string>', '</s>', '<URL>', '<number>', '-s']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git log --oneline --graph
+Từ thực tế: --parents
+Top 5 từ dự đoán: ['</s>', '--decorate', '--all', '<string>', '--pretty=<string>']
+
+Câu lệnh: sudo service
+Từ thực tế: --status-all
+Top 5 từ dự đoán: ['nginx', '<string>', 'apache2', '</s>', 'ls']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm
+Từ thực tế: ls
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl -L <URL> -o <string>
+Từ thực tế: -s
+Top 5 từ dự đoán: ['</s>', 'slim-iso', '<string>', '-g', '-j']
+
+Câu lệnh: git add
+Từ thực tế: -u
+Top 5 từ dự đoán: ['.', '<string>', '-A', '</s>', '--all']
+
+Câu lệnh: git
+Từ thực tế: please
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lart
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: lsof
+Từ thực tế: -i:8000
+Top 5 từ dự đoán: ['-i', '</s>', '-p', '-n', '-u']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git commit
+Từ thực tế: -amâ€™â€™
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ps
+Từ thực tế: axfu
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: ssh-agent
+Từ thực tế: bash
+Top 5 từ dự đoán: ['</s>', '<string>', '-s', 'ls', 'git']
+
+Câu lệnh: ssh kuaidi@192.168.228.183
+Từ thực tế: -p2222
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: chmod
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['+x', '<number>', '<string>', 'u+x', '-x']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm run
+Từ thực tế: frontend
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt-get install sane
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: link
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -h
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: service
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: xargs
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-L1', '-0', 'grep', '-n1', 'sed']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -alf
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: build
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: ls
+Từ thực tế: -AF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: journalctl -b -4
+Từ thực tế: -e
+Top 5 từ dự đoán: ['<URL>', '<string>', '-NL', '</s>', 'ls']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: head
+Từ thực tế: -n1
+Top 5 từ dự đoán: ['-n', '</s>', '-1', '-y', '<filename>']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm run
+Từ thực tế: register
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git config
+Từ thực tế: -list
+Top 5 từ dự đoán: ['--global', '<file>', '--list', '--add', '</s>']
+
+Câu lệnh: sudo <file>
+Từ thực tế: --register-app
+Top 5 từ dự đoán: ['-v', '-L', '</s>', '<directory>', '-d']
+
+Câu lệnh: grep
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: ps
+Từ thực tế: -e
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git config --global
+Từ thực tế: --edit
+Top 5 từ dự đoán: ['<file>', '</s>', '--list', '--add', '--unset']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo zypper ve
+Từ thực tế: -rruby
+Top 5 từ dự đoán: ['-r', '-D', '</s>', '<string>', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: cut
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-d', '-f', '-c', "-d'", '-f1']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: makepkg
+Từ thực tế: -sci
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo apt-get upgrade
+Từ thực tế: python3
+Top 5 từ dự đoán: ['</s>', '-y', '--fix-missing', '<string>', 'ls']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: bash -s <string>
+Từ thực tế: --rails
+Top 5 từ dự đoán: ['--ruby', '</s>', 'only', '-X', '<string>']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: sudo npm
+Từ thực tế: update
+Top 5 từ dự đoán: ['install', 'i', 'start', 'run', 'test']
+
+Câu lệnh: ls
+Từ thực tế: -r
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: mvn exec:java
+Từ thực tế: -Dexec.mainClass"cs1302.sorting.BubbleSort"
+Top 5 từ dự đoán: ['-Dexec.mainClass=<file>', '</s>', '<string>', 'ls', 'git']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: visudo
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: --config
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git branch
+Từ thực tế: -v
+Top 5 từ dự đoán: ['</s>', '-M', '-a', '2>', '-D']
+
+Câu lệnh: git
+Từ thực tế: checkout
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: checkout
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: df
+Từ thực tế: -aTh
+Top 5 từ dự đoán: ['-h', '</s>', '-lh', '#', '-H']
+
+Câu lệnh: bash
+Từ thực tế: -
+Top 5 từ dự đoán: ['</s>', '<file>', '--version', '-v', '--help']
+
+Câu lệnh: ls
+Từ thực tế: -alh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: tmux split-window -t <string>
+Từ thực tế: -h
+Top 5 từ dự đoán: ['</s>', '-C', '-b', '-o', 'overlay']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -xAh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: history
+Từ thực tế: -n
+Top 5 từ dự đoán: ['</s>', '-a', '-c', '-r', '#']
+
+Câu lệnh: ssh
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', 'dirlic@10.18.0.39', '-i', '-p', '-t']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm run
+Từ thực tế: frontend
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: ls
+Từ thực tế: -all
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: halt
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git commit
+Từ thực tế: -m"update"
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: sudo grep
+Từ thực tế: -y
+Top 5 từ dự đoán: ['<string>', '</s>', '--color=<string>', 'dkim', '-i']
+
+Câu lệnh: sudo
+Từ thực tế: sh
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: pulseaudio
+Từ thực tế: -D
+Top 5 từ dự đoán: ['</s>', '-v', '-k', '--start', '-vvvv']
+
+Câu lệnh: sudo
+Từ thực tế: loadkeys
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm start
+Từ thực tế: --cups-printer=<string>
+Top 5 từ dự đoán: ['</s>', '--active-arch-only', '<string>', '--', 'uwsgi']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo tar -C <directory>
+Từ thực tế: -xJ
+Top 5 từ dự đoán: ['-xzf', '</s>', '-xvf', '-xvzf', '-xvz']
+
+Câu lệnh: find . -name <string>
+Từ thực tế: -delete
+Top 5 từ dự đoán: ['-type', '-o', '</s>', '-exec', '-print']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: grep
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: git
+Từ thực tế: touch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find . -size <string>
+Từ thực tế: -delete
+Top 5 từ dự đoán: ['-a', '</s>', '-exec', '-ls', '<directory>']
+
+Câu lệnh: git
+Từ thực tế: clone
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '<URL>', '-fsSL', '-s', '-sL']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl -fSsL
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: chmod
+Từ thực tế: --all
+Top 5 từ dự đoán: ['+x', '<number>', '<string>', 'u+x', '-x']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -altr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: autoremove
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'remove']
+
+Câu lệnh: sudo su
+Từ thực tế: laravel
+Top 5 từ dự đoán: ['</s>', '-', 'root', '-l', 'chmod']
+
+Câu lệnh: ls
+Từ thực tế: -R
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: dpkg
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-l', '-i', '--get-selections', '-L', '--list']
+
+Câu lệnh: ps
+Từ thực tế: axfu
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: sudo
+Từ thực tế: bash
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: please
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: --help
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ssh
+Từ thực tế: -b
+Top 5 từ dự đoán: ['<string>', 'dirlic@10.18.0.39', '-i', '-p', '-t']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: screen
+Từ thực tế: -a
+Top 5 từ dự đoán: ['-r', '</s>', '-ls', '-rd', '-S']
+
+Câu lệnh: sudo npm install -g <string>
+Từ thực tế: -unsafe-perm
+Top 5 từ dự đoán: ['</s>', '<string>', '--unsafe-perm=<string>', '-m', '-p']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls <directory>
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['-l', '</s>', '-a', '-al', '-ld']
+
+Câu lệnh: ls
+Từ thực tế: -latr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git checkout
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '-b', 'master', '</s>', '--']
+
+Câu lệnh: xargs -n2 <string>
+Từ thực tế: tag
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', '-o', 'git']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: cut -d' <string>
+Từ thực tế: -f7-
+Top 5 từ dự đoán: ['-f', '-f3-7', '-f4-', '</s>', '-f1']
+
+Câu lệnh: xargs ls
+Từ thực tế: -l
+Top 5 từ dự đoán: ['-gG', '-hs', '</s>', '-la', '<string>']
+
+Câu lệnh: grep
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: makepkg
+Từ thực tế: -sci
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -tr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: tmux
+Từ thực tế: ls
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: systemctl
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['status', 'start', 'stop', 'restart', '--user']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -C
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: please
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: checkout
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: -version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: docker
+Từ thực tế: -c
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: watch
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: clone
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -alf
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: please
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git commit
+Từ thực tế: -amend
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: ls
+Từ thực tế: -alS
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: openssl
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['rand', 'req', 'x509', 'genrsa', 's_client']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: find <directory> -name <string> -type <string> -user <string>
+Từ thực tế: -delete
+Top 5 từ dự đoán: ['</s>', '-exec', '<string>', 'ls', '-o']
+
+Câu lệnh: tar -C <directory> -strip-components <number> -xJf
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: npm
+Từ thực tế: --version
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: sudo netstat
+Từ thực tế: -lpn
+Top 5 từ dự đoán: ['-tulpn', '-tuln', '-ntulp', '-plnt', '-nlpt']
+
+Câu lệnh: find. -name <string>
+Từ thực tế: -print
+Top 5 từ dự đoán: ['-o', '</s>', '-type', '\\)', '-exec']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: find $* -type <string> -empty
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['</s>', '-delete', '-type', '-exec', '<string>']
+
+Câu lệnh: sudo pacman -S <string> docker-compose
+Từ thực tế: -y
+Top 5 từ dự đoán: ['up', 'logs', '</s>', 'down', 'stop']
+
+Câu lệnh: npm run
+Từ thực tế: register
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: sudo apt-get install ros-indigo-desktop-full
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: apt-get -y <string>
+Từ thực tế: --purge
+Top 5 từ dự đoán: ['</s>', '<string>', '--no-install-recommends', "--purge'", '$(sort']
+
+Câu lệnh: sed
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-i', '<directory>', '-e', '-E', '-n']
+
+Câu lệnh: find
+Từ thực tế: --option
+Top 5 từ dự đoán: ['.', '<directory>', '-name', '$dir', '</s>']
+
+Câu lệnh: git
+Từ thực tế: init\
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: br
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: docker
+Từ thực tế: --help
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: npm run
+Từ thực tế: test:watch
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: sudo apt install ecryptfs-utils
+Từ thực tế: --reinstall
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find <file> -type <string> -name <string> -o -name <string> -exec <string>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-c', '-i', '-rf', '</s>', '<directory>']
+
+Câu lệnh: history
+Từ thực tế: -w
+Top 5 từ dự đoán: ['</s>', '-a', '-c', '-r', '#']
+
+Câu lệnh: git submodule add <URL>
+Từ thực tế: --force
+Top 5 từ dự đoán: ['</s>', '-f', '-O', '<string>', '-o']
+
+Câu lệnh: head
+Từ thực tế: -n1\
+Top 5 từ dự đoán: ['-n', '</s>', '-1', '-y', '<filename>']
+
+Câu lệnh: sudo pacman
+Từ thực tế: -Suu
+Top 5 từ dự đoán: ['-S', '-Syyu', '-Syu', '-Ss', '-Q']
+
+Câu lệnh: git
+Từ thực tế: adog
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: -v
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tail
+Từ thực tế: -n7
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: vim
+Từ thực tế: -
+Top 5 từ dự đoán: ['<file>', '</s>', '<directory>', '<string>', '-O']
+
+Câu lệnh: find
+Từ thực tế: src
+Top 5 từ dự đoán: ['.', '<directory>', '-name', '$dir', '</s>']
+
+Câu lệnh: uname
+Từ thực tế: -o
+Top 5 từ dự đoán: ['-a', '</s>', '-r', '-s', '-m']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: apt
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['install', 'list', 'update', 'search', 'upgrade']
+
+Câu lệnh: python3 django
+Từ thực tế: -h
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tail
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git ls-files --deleted
+Từ thực tế: -z
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: read -rst0.5 -N1
+Từ thực tế: -u0
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -n
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -lt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: lsblk
+Từ thực tế: --help
+Top 5 từ dự đoán: ['</s>', '-O', '-f', '-l', '-h']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm run
+Từ thực tế: devstart
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git restore --staged --worktree
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['--source-prefix=<string>', '--recursive', '</s>', '<string>', 'ls']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: package
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: telnet
+Từ thực tế: -v
+Top 5 từ dự đoán: ['<string>', '</s>', '-tulpn', '-h', '--help']
+
+Câu lệnh: php
+Từ thực tế: --version
+Top 5 từ dự đoán: ['artisan', '</s>', '<file>', '-r', '-v']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: npm run
+Từ thực tế: build
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: sudo systemctl
+Từ thực tế: daemon-reload
+Top 5 từ dự đoán: ['start', 'status', 'restart', 'enable', 'stop']
+
+Câu lệnh: grep
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: git read-tree -u --prefix=<string>
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ssh
+Từ thực tế: --J
+Top 5 từ dự đoán: ['<string>', 'dirlic@10.18.0.39', '-i', '-p', '-t']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: mvn install:install-file -Dfile=<file> -DgroupId=<file> -DartifactId=<string> -Dpackaging=<string>
+Từ thực tế: -Dversion=<string>
+Top 5 từ dự đoán: ['-DgeneratePom=<string>', '</s>', '<string>', 'ls', 'git']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find
+Từ thực tế: src
+Top 5 từ dự đoán: ['.', '<directory>', '-name', '$dir', '</s>']
+
+Câu lệnh: cp
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-r', '-v', '-R', '</s>']
+
+Câu lệnh: ex
+Từ thực tế: --help
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo git
+Từ thực tế: reset
+Top 5 từ dự đoán: ['pull', 'clone', 'add', 'push', 'commit']
+
+Câu lệnh: git
+Từ thực tế: gc
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lH
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: make
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git add
+Từ thực tế: -u
+Top 5 từ dự đoán: ['.', '<string>', '-A', '</s>', '--all']
+
+Câu lệnh: npm install
+Từ thực tế: --force
+Top 5 từ dự đoán: ['</s>', '<string>', '-g', '--save', '-f']
+
+Câu lệnh: sudo snap install slack
+Từ thực tế: --classic
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -R
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: make
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git reset HEAD
+Từ thực tế: -HARD
+Top 5 từ dự đoán: ['--', '--hard', '--2023/', '.', '</s>']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ps
+Từ thực tế: -df
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: rm
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '-rf', '-r', '-f', '-fr']
+
+Câu lệnh: sudo
+Từ thực tế: raspi-config
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: mvn dependency:copy-dependencies
+Từ thực tế: -DoutputDirectory=<string>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: npm
+Từ thực tế: login
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git diff --no-ext-diff --cached
+Từ thực tế: --quiet
+Top 5 từ dự đoán: ['<string>', '<directory>', '</s>', '-r', 'ls']
+
+Câu lệnh: ps
+Từ thực tế: -eal
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git push
+Từ thực tế: --tags
+Top 5 từ dự đoán: ['</s>', '-u', 'origin', '--set-upstream', '-f']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo apt
+Từ thực tế: dist-upgrade
+Top 5 từ dự đoán: ['install', 'update', 'upgrade', '-y', 'remove']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt install apt-transport-https
+Từ thực tế: -y
+Top 5 từ dự đoán: ['linux-image-extra-$(uname', '\\', '</s>', '<string>', 'ls']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tail
+Từ thực tế: -n1"\
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: ls
+Từ thực tế: -lisa
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: shutdown
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sh -s - <string>
+Từ thực tế: --cluster-init
+Top 5 từ dự đoán: ['</s>', '<string>', '-c', '-H', '-']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lhr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: bazel build -c <string> --config=<string>
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['--genrule_strategy=<string>', '</s>', '<string>', 'ls', 'git']
+
+Câu lệnh: ls
+Từ thực tế: -lr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: tail
+Từ thực tế: -5
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: docker
+Từ thực tế: login
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt install gdebi
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo
+Từ thực tế: ldconfig
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt-get install grep
+Từ thực tế: -y
+Top 5 từ dự đoán: ['<string>', '-i', '</s>', '-v', '-E']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: devstart
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: wget $URL -O
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['<file>', '-', '<directory>', '</s>', '<URL>']
+
+Câu lệnh: pacman
+Từ thực tế: -Syy
+Top 5 từ dự đoán: ['-S', '-Scc', '-Syu', '--noconfirm', '</s>']
+
+Câu lệnh: npm run
+Từ thực tế: prod
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: npm
+Từ thực tế: test
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: lshw
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm run
+Từ thực tế: make
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: read
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-p', '-r', '<string>', '-rp', '-s']
+
+Câu lệnh: curl -fssl
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: hist
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sort
+Từ thực tế: -rn
+Top 5 từ dự đoán: ['</s>', '-u', '-n', '-nr', '-g']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: exit
+Từ thực tế: -1
+Top 5 từ dự đoán: ['</s>', '<number>', '<string>', 'ls', 'git']
+
+Câu lệnh: git config --global
+Từ thực tế: --edit
+Top 5 từ dự đoán: ['<file>', '</s>', '--list', '--add', '--unset']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init\
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find
+Từ thực tế: src
+Top 5 từ dự đoán: ['.', '<directory>', '-name', '$dir', '</s>']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: dist-upgrade
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'remove']
+
+Câu lệnh: sudo systemctl
+Từ thực tế: daemon-reload
+Top 5 từ dự đoán: ['start', 'status', 'restart', 'enable', 'stop']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: find <directory> -name <file> -type <string> -print
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-delete', '</s>', '-deletefind', '-prune', '-a']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: clone
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: head
+Từ thực tế: -10\
+Top 5 từ dự đoán: ['-n', '</s>', '-1', '-y', '<filename>']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: git branch
+Từ thực tế: -v
+Top 5 từ dự đoán: ['</s>', '-M', '-a', '2>', '-D']
+
+Câu lệnh: mvn hpi:run -Djava.awt.headless=<string>
+Từ thực tế: -Djetty.port=<number>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo login
+Từ thực tế: root
+Top 5 từ dự đoán: ['</s>', 'shell', '<string>', '-u', '<file>']
+
+Câu lệnh: sudo apt install openjdk-11-jdk
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: xrandr
+Từ thực tế: --help
+Top 5 từ dự đoán: ['</s>', '--output', '-q', '--listmonitors', '-d']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo systemctl
+Từ thực tế: daemon-reload
+Top 5 từ dự đoán: ['start', 'status', 'restart', 'enable', 'stop']
+
+Câu lệnh: git
+Từ thực tế: please
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: systemctl
+Từ thực tế: --type=<string>
+Top 5 từ dự đoán: ['status', 'start', 'stop', 'restart', '--user']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: dist-upgrade
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'remove']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: apt-get
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'autoremove']
+
+Câu lệnh: diff
+Từ thực tế: --h
+Top 5 từ dự đoán: ['<file>', '-u', '-b', '</s>', '-n']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: npm i
+Từ thực tế: --legacy-peer-deps
+Top 5 từ dự đoán: ['<string>', '</s>', '-g', 'prettier', 'sass']
+
+Câu lệnh: npm
+Từ thực tế: publish
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git diff --name-only --relative
+Từ thực tế: --diff-filter=<string>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo pacman
+Từ thực tế: -Scc
+Top 5 từ dự đoán: ['-S', '-Syyu', '-Syu', '-Ss', '-Q']
+
+Câu lệnh: sudo apt purge $(dpkg
+Từ thực tế: -l
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: hist
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: head
+Từ thực tế: -n1\
+Top 5 từ dự đoán: ['-n', '</s>', '-1', '-y', '<filename>']
+
+Câu lệnh: git diff
+Từ thực tế: --cached
+Top 5 từ dự đoán: ['</s>', '<string>', '<directory>', '--no-ext-diff', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git status
+Từ thực tế: -ignore
+Top 5 từ dự đoán: ['</s>', '<string>', '.', '--porcelain', '-v']
+
+Câu lệnh: ls
+Từ thực tế: --help
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tmux
+Từ thực tế: --a
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: pcmanfm
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: pretty
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: gpg
+Từ thực tế: --list-sigs
+Top 5 từ dự đoán: ['--verify', '--dearmor', '--keyserver', '--help', '--recv-keys']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo npm i
+Từ thực tế: --legacy-peer-deps
+Top 5 từ dự đoán: ['prettier', '-g', '</s>', '<string>', 'lebab']
+
+Câu lệnh: stat
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<file>', '-c', '</s>', '<string>', 'ls']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ufw
+Từ thực tế: -man
+Top 5 từ dự đoán: ['allow', 'status', '</s>', '--help', '--info']
+
+Câu lệnh: sudo
+Từ thực tế: du
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: du -ah
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['</s>', '--max-depth=<number>', '<string>', 'ls', 'git']
+
+Câu lệnh: grep
+Từ thực tế: --?
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: npx
+Từ thực tế: -v
+Top 5 từ dự đoán: ['<string>', 'create-react-app', 'shadcn-ui@latest', 'tailwindcss', 'tslint']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '<URL>', '-fsSL', '-s', '-sL']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: grep <number>
+Từ thực tế: -nrw
+Top 5 từ dự đoán: ['-w', '-wr', '</s>', '<string>', '<directory>']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ss
+Từ thực tế: -lntu
+Top 5 từ dự đoán: ['</s>', '-a', '-nlpt', '-N', '-tunelp']
+
+Câu lệnh: xrandr
+Từ thực tế: --help
+Top 5 từ dự đoán: ['</s>', '--output', '-q', '--listmonitors', '-d']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ps
+Từ thực tế: -aux
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl <URL> -o <string>
+Từ thực tế: --template=<string>
+Top 5 từ dự đoán: ['</s>', 'slim-iso', '<string>', '-g', '-j']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: shutdown
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: do-release-upgrade
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: _build
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: apt-get install ruby1.9.1-dev
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: open <directory>
+Từ thực tế: --remote-debugging-port
+Top 5 từ dự đoán: ['</s>', '<file>', '<string>', '<directory>', '-v']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo ldconfig
+Từ thực tế: -v
+Top 5 từ dự đoán: ['</s>', '-n', '<string>', 'ls', 'git']
+
+Câu lệnh: git
+Từ thực tế: checkout
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: build
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl -OJL
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: du
+Từ thực tế: -ch
+Top 5 từ dự đoán: ['-sh', '-h', '-skh', '</s>', '<filename>']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: docker rm 1b13d10b5de2
+Từ thực tế: -f
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: halt
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: wc
+Từ thực tế: -L
+Top 5 từ dự đoán: ['-l', '</s>', '-c', 'find', '-w']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: find . -maxdepth <number> -type <string> -executable
+Từ thực tế: -delete
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: npm run
+Từ thực tế: watch
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: sudo pacman
+Từ thực tế: -Sy
+Top 5 từ dự đoán: ['-S', '-Syyu', '-Syu', '-Ss', '-Q']
+
+Câu lệnh: git
+Từ thực tế: adog
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ps
+Từ thực tế: -aux
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: grep
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: tail
+Từ thực tế: -n10
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: ps
+Từ thực tế: -aux
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: ls
+Từ thực tế: -alF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: find . -type <string>
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['-exec', '-name', '</s>', '-a', '-print']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm
+Từ thực tế: login
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm run
+Từ thực tế: develop
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git push
+Từ thực tế: --follow-tags
+Top 5 từ dự đoán: ['</s>', '-u', 'origin', '--set-upstream', '-f']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm
+Từ thực tế: --verison
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: kubectl create -f
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['-', '<string>', '</s>', '<directory>', '<number>']
+
+Câu lệnh: sudo ani-cli
+Từ thực tế: -U
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: docker
+Từ thực tế: --version\
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: git branch
+Từ thực tế: --list
+Top 5 từ dự đoán: ['</s>', '-M', '-a', '2>', '-D']
+
+Câu lệnh: ls
+Từ thực tế: -lia
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git commit
+Từ thực tế: -m"~"
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: tmux
+Từ thực tế: --version
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: wget
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<URL>', '-q', '-O', '-r', '--no-check-certificate']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: sudo apt
+Từ thực tế: autoremove
+Top 5 từ dự đoán: ['install', 'update', 'upgrade', '-y', 'remove']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find . -type <string> -name <file> -exec <string> -il
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '</s>', 'ls', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -laSh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git commit
+Từ thực tế: -m''
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: git commit
+Từ thực tế: -m"update"
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: npm run
+Từ thực tế: build
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: sudo apt
+Từ thực tế: autoremove
+Top 5 từ dự đoán: ['install', 'update', 'upgrade', '-y', 'remove']
+
+Câu lệnh: view
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '</s>', 'ls', 'git', 'cd']
+
+Câu lệnh: find
+Từ thực tế: src
+Top 5 từ dự đoán: ['.', '<directory>', '-name', '$dir', '</s>']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: ls
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm run
+Từ thực tế: serve
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sort
+Từ thực tế: -nk1,1
+Top 5 từ dự đoán: ['</s>', '-u', '-n', '-nr', '-g']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: ps
+Từ thực tế: -A
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt-get install docker-engine
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: apt-get
+Từ thực tế: clean
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'autoremove']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl -s -D- -onul
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl -fSsLo
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: tmux
+Từ thực tế: ls
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: sudo lshw #
+Từ thực tế: -[short]
+Top 5 từ dự đoán: ['shows', '@GUI', 'lists', 'outputs', '<string>']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git diff
+Từ thực tế: --color-words=<string>
+Top 5 từ dự đoán: ['</s>', '<string>', '<directory>', '--no-ext-diff', '<file>']
+
+Câu lệnh: ls
+Từ thực tế: -alF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -R
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: xargs git branch
+Từ thực tế: -D
+Top 5 từ dự đoán: ['-d', '</s>', '-M', '-a', '2>']
+
+Câu lệnh: ls $PWD
+Từ thực tế: -l
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: config
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['pull', 'clone', 'add', 'push', 'commit']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tmux
+Từ thực tế: --kill-sessions
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: sudo git
+Từ thực tế: init
+Top 5 từ dự đoán: ['pull', 'clone', 'add', 'push', 'commit']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git branch
+Từ thực tế: --help
+Top 5 từ dự đoán: ['</s>', '-M', '-a', '2>', '-D']
+
+Câu lệnh: du
+Từ thực tế: -ach
+Top 5 từ dự đoán: ['-sh', '-h', '-skh', '</s>', '<filename>']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: systemctl status python-validity
+Từ thực tế: --user
+Top 5 từ dự đoán: ['--usr', '</s>', '<string>', 'ls', 'git']
+
+Câu lệnh: docker
+Từ thực tế: -version
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls <directory>
+Từ thực tế: -Sal
+Top 5 từ dự đoán: ['-l', '</s>', '-a', '-al', '-ld']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git log --graph --decorate --oneline --branches
+Từ thực tế: --all
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git branch
+Từ thực tế: --merged
+Top 5 từ dự đoán: ['</s>', '-M', '-a', '2>', '-D']
+
+Câu lệnh: df
+Từ thực tế: -sh
+Top 5 từ dự đoán: ['-h', '</s>', '-lh', '#', '-H']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: open <directory> --args
+Từ thực tế: --remote-debugging-port=<number>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: merge
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find . type f
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: port
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: unzip
+Từ thực tế: -h
+Top 5 từ dự đoán: ['<file>', '-o', '-R', '-zst', '</s>']
+
+Câu lệnh: sudo <directory> -m
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '<file>', '</s>', 'ls', 'git']
+
+Câu lệnh: sudo useradd -m -U -r -d
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>', '--build', '</s>', '<file>', '--restart']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: <string>
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['-e', '-', '--tree-spawn', '</s>', '<string>']
+
+Câu lệnh: xrandr
+Từ thực tế: -list
+Top 5 từ dự đoán: ['</s>', '--output', '-q', '--listmonitors', '-d']
+
+Câu lệnh: sudo <directory>
+Từ thực tế: -b
+Top 5 từ dự đoán: ['restart', '<string>', '-s', '</s>', '-R']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo sshfs
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['-o', '--help', '</s>', '<string>', 'ls']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ssh kuaidi@192.168.248.203
+Từ thực tế: -p2222
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo netstat
+Từ thực tế: -lptu
+Top 5 từ dự đoán: ['-tulpn', '-tuln', '-ntulp', '-plnt', '-nlpt']
+
+Câu lệnh: git config
+Từ thực tế: --get
+Top 5 từ dự đoán: ['--global', '<file>', '--list', '--add', '</s>']
+
+Câu lệnh: sudo mkfs.ntfs
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: grep
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: find . -iname <string> -exec <string>
+Từ thực tế: <string>
+Top 5 từ dự đoán: ['-c', '-i', '-rf', '</s>', '<directory>']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: history
+Từ thực tế: --help
+Top 5 từ dự đoán: ['</s>', '-a', '-c', '-r', '#']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: dist-upgrade
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'remove']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: grep
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: git diff
+Từ thực tế: --cached
+Top 5 từ dự đoán: ['</s>', '<string>', '<directory>', '--no-ext-diff', '<file>']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: umask
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<number>', '</s>', '<string>', 'ls', 'git']
+
+Câu lệnh: npm
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: cut
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-d', '-f', '-c', "-d'", '-f1']
+
+Câu lệnh: curl
+Từ thực tế: --request
+Top 5 từ dự đoán: ['<string>', '<URL>', '-fsSL', '-s', '-sL']
+
+Câu lệnh: ls
+Từ thực tế: -latr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -lt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -lrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git commit
+Từ thực tế: -n
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lSh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: find . -maxdepth <number> -name <file>
+Từ thực tế: -delete
+Top 5 từ dự đoán: ['-o', '</s>', '-type', '\\)', '-name']
+
+Câu lệnh: git
+Từ thực tế: br
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: rsync
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<directory>', '-a', '-rt', '-arv', '-avzr']
+
+Câu lệnh: tmux
+Từ thực tế: ls
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo yabai
+Từ thực tế: --uninstall-sa
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: cat
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '</s>', '-n', '-s', '<file>']
+
+Câu lệnh: wget
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<URL>', '-q', '-O', '-r', '--no-check-certificate']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: wget
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<URL>', '-q', '-O', '-r', '--no-check-certificate']
+
+Câu lệnh: tmux
+Từ thực tế: new
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: mysql
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: screen
+Từ thực tế: -pts
+Top 5 từ dự đoán: ['-r', '</s>', '-ls', '-rd', '-S']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git diff --no-ext-diff --cached
+Từ thực tế: --quiet
+Top 5 từ dự đoán: ['<string>', '<directory>', '</s>', '-r', 'ls']
+
+Câu lệnh: history
+Từ thực tế: -n
+Top 5 từ dự đoán: ['</s>', '-a', '-c', '-r', '#']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: systemctl
+Từ thực tế: --help
+Top 5 từ dự đoán: ['status', 'start', 'stop', 'restart', '--user']
+
+Câu lệnh: sed
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['-i', '<directory>', '-e', '-E', '-n']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: grep
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: git
+Từ thực tế: merge
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sed -i.origin
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: modprobe
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: ..
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: subl
+Từ thực tế: -v
+Top 5 từ dự đoán: ['<string>', '</s>', 'ls', 'git', 'cd']
+
+Câu lệnh: apt-get
+Từ thực tế: telnet
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'autoremove']
+
+Câu lệnh: npm start
+Từ thực tế: --cups-printer=<string>
+Top 5 từ dự đoán: ['</s>', '--active-arch-only', '<string>', '--', 'uwsgi']
+
+Câu lệnh: du -h
+Từ thực tế: -maxdepth=<number>
+Top 5 từ dự đoán: ['</s>', '--max-depth=<number>', '<directory>', '-d', '-x']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -lhrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: autoremove
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'remove']
+
+Câu lệnh: lsof -n
+Từ thực tế: -i
+Top 5 từ dự đoán: ['-i4TCP', '-i4TCP:$1', '<string>', '<number>', '</s>']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo pacman -S <string>
+Từ thực tế: --needed
+Top 5 từ dự đoán: ['</s>', '--noconfirm', '--asdeps', '<string>', '--overwrite']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl -L
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<URL>', '<directory>', '-o', '<string>', '-O']
+
+Câu lệnh: ls
+Từ thực tế: -lrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init\
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt list
+Từ thực tế: --ugpradeable
+Top 5 từ dự đoán: ['--upgradable', '--ugpradable', '--installed', '</s>', '-i']
+
+Câu lệnh: cut
+Từ thực tế: -f2-
+Top 5 từ dự đoán: ['-d', '-f', '-c', "-d'", '-f1']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git config
+Từ thực tế: -l
+Top 5 từ dự đoán: ['--global', '<file>', '--list', '--add', '</s>']
+
+Câu lệnh: git
+Từ thực tế: --help
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: dpkg
+Từ thực tế: --help
+Top 5 từ dự đoán: ['-l', '-i', '--get-selections', '-L', '--list']
+
+Câu lệnh: sudo -n <string>
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['</s>', '<directory>', '<string>', '-f', '-L']
+
+Câu lệnh: shuf
+Từ thực tế: --help
+Top 5 từ dự đoán: ['-n', '</s>', '<file>', '<string>', 'ls']
+
+Câu lệnh: git
+Từ thực tế: --help
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo airport
+Từ thực tế: --disassociate\
+Top 5 từ dự đoán: ['--channel=<string>', '<string>', '--disassociate', '</s>', 'ls']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find . -type <string>
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['-exec', '-name', '</s>', '-a', '-print']
+
+Câu lệnh: sudo apt
+Từ thực tế: autoremove
+Top 5 từ dự đoán: ['install', 'update', 'upgrade', '-y', 'remove']
+
+Câu lệnh: git
+Từ thực tế: gc
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git fetch
+Từ thực tế: -r
+Top 5 từ dự đoán: ['</s>', 'origin\\', 'upstream', 'origin', '--all']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git log --oneline --graph
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['</s>', '--decorate', '--all', '<string>', '--pretty=<string>']
+
+Câu lệnh: git
+Từ thực tế: show
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo pacman
+Từ thực tế: -Scc
+Top 5 từ dự đoán: ['-S', '-Syyu', '-Syu', '-Ss', '-Q']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt install i3
+Từ thực tế: --no-install-recommends
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: adog
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: wget
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<URL>', '-q', '-O', '-r', '--no-check-certificate']
+
+Câu lệnh: tail
+Từ thực tế: -n+2
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: grep
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: df
+Từ thực tế: -
+Top 5 từ dự đoán: ['-h', '</s>', '-lh', '#', '-H']
+
+Câu lệnh: sudo systemctl
+Từ thực tế: daemon-reload
+Top 5 từ dự đoán: ['start', 'status', 'restart', 'enable', 'stop']
+
+Câu lệnh: apt-get
+Từ thực tế: clean
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'autoremove']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git config push --set-upstream
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['<string>', '</s>', 'ls', 'git', 'cd']
+
+Câu lệnh: perl
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<file>', '</s>', '-ne', '-e', '-pe']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo kill -HUP
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['<string>', '</s>', 'ls', 'git', 'cd']
+
+Câu lệnh: find <directory>
+Từ thực tế: -name=<file>
+Top 5 từ dự đoán: ['-iname', '-type', '-name', '</s>', '-mindepth']
+
+Câu lệnh: sudo apt install -y <string>
+Từ thực tế: -r)
+Top 5 từ dự đoán: ['</s>', '<string>', '-r`', '--setopt', '--no-install-recommends']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm
+Từ thực tế: test
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git remote
+Từ thực tế: -a
+Top 5 từ dự đoán: ['add', '-v', 'set-url', 'remove', '</s>']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo apt-get
+Từ thực tế: dist-upgrade
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'remove']
+
+Câu lệnh: sudo
+Từ thực tế: halt
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: hist
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: fsck
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo halt
+Từ thực tế: -n
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git config --get-all
+Từ thực tế: -l
+Top 5 từ dự đoán: ['</s>', '<file>', '<string>', 'ls', 'git']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sed -i <string> -E
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['-v', '-e', '<string>', '</s>', '--no-filename']
+
+Câu lệnh: git pull
+Từ thực tế: --no-edit
+Top 5 từ dự đoán: ['</s>', 'origin', '--rebase', '-f', 'upstream']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -alF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: head
+Từ thực tế: -n1
+Top 5 từ dự đoán: ['-n', '</s>', '-1', '-y', '<filename>']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: git all
+Từ thực tế: -A
+Top 5 từ dự đoán: ['processes', 'files', 'the', '</s>', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ssh estunnel
+Từ thực tế: -N
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo apt-get install netdata
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: cut -d,
+Từ thực tế: -f9
+Top 5 từ dự đoán: ['-f1,9,11,14,16', '-f1,5,11,16', '-f1,9,10,14,15', '</s>', '<file>']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt
+Từ thực tế: autoremove
+Top 5 từ dự đoán: ['install', 'update', 'upgrade', '-y', 'remove']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git checkout
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '-b', 'master', '</s>', '--']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: rebase
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: rm --recursive --dir
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<directory>', '</s>', '<string>', 'ls', 'git']
+
+Câu lệnh: git merge
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '</s>', 'develop', '--abort', '<directory>']
+
+Câu lệnh: find <directory> -type <string>
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['-name', '-execdir', '</s>', '-exec', '-print']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt-get install texlive-pstricks
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo
+Từ thực tế: bash
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '<URL>', '-fsSL', '-s', '-sL']
+
+Câu lệnh: sudo
+Từ thực tế: port
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git branch
+Từ thực tế: main
+Top 5 từ dự đoán: ['</s>', '-M', '-a', '2>', '-D']
+
+Câu lệnh: GET
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<URL>', '</s>', '<string>', 'ls', 'git']
+
+Câu lệnh: file -l
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['</s>', '<string>', '<number>', '<directory>', 'ls']
+
+Câu lệnh: sed -ibak -E
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['-e', '<string>', '</s>', '--no-filename', '-o']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ps
+Từ thực tế: -a
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: history
+Từ thực tế: -w
+Top 5 từ dự đoán: ['</s>', '-a', '-c', '-r', '#']
+
+Câu lệnh: docker
+Từ thực tế: --version
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: npm
+Từ thực tế: help
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git push
+Từ thực tế: --help
+Top 5 từ dự đoán: ['</s>', '-u', 'origin', '--set-upstream', '-f']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: dpkg
+Từ thực tế: --force-elp
+Top 5 từ dự đoán: ['-l', '-i', '--get-selections', '-L', '--list']
+
+Câu lệnh: sudo apt
+Từ thực tế: dist-upgrade
+Top 5 từ dự đoán: ['install', 'update', 'upgrade', '-y', 'remove']
+
+Câu lệnh: npm
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -tr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -R
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tmux
+Từ thực tế: attach
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: git
+Từ thực tế: please
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: vi .
+Từ thực tế: -NO
+Top 5 từ dự đoán: ['</s>', '-name', '-type', '-empty', '\\(']
+
+Câu lệnh: pacman
+Từ thực tế: -Q
+Top 5 từ dự đoán: ['-S', '-Scc', '-Syu', '--noconfirm', '</s>']
+
+Câu lệnh: sudo lvremove <directory>
+Từ thực tế: -f
+Top 5 từ dự đoán: ['</s>', '--force', '--forece', '<file>', '<string>']
+
+Câu lệnh: sudo
+Từ thực tế: bash
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: man rm
+Từ thực tế: -R
+Top 5 từ dự đoán: ['<string>', '-rf', '-r', '-f', '</s>']
+
+Câu lệnh: ps
+Từ thực tế: ux
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo dpkg
+Từ thực tế: -l
+Top 5 từ dự đoán: ['-i', '--configure', '-r', '--clear-selections', '--remove']
+
+Câu lệnh: git
+Từ thực tế: revert
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -las
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: mkdir
+Từ thực tế: -h
+Top 5 từ dự đoán: ['<string>', '-p', '</s>', '<directory>', '--parents']
+
+Câu lệnh: killall
+Từ thực tế: -l
+Top 5 từ dự đoán: ['<string>', '<processname>', '-SIGUSR1', '</s>', '-9']
+
+Câu lệnh: ls <directory>
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['-l', '</s>', '-a', '-al', '-ld']
+
+Câu lệnh: npm
+Từ thực tế: test
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<string>', '<URL>', '-fsSL', '-s', '-sL']
+
+Câu lệnh: ls
+Từ thực tế: -las
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: npm i
+Từ thực tế: -f
+Top 5 từ dự đoán: ['<string>', '</s>', '-g', 'prettier', 'sass']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: cut -d,
+Từ thực tế: -f1,4,8
+Top 5 từ dự đoán: ['-f1,9,11,14,16', '-f1,5,11,16', '-f1,9,10,14,15', '</s>', '<file>']
+
+Câu lệnh: sudo systemctl
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['start', 'status', 'restart', 'enable', 'stop']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm
+Từ thực tế: test
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ps
+Từ thực tế: axfu
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: npm run
+Từ thực tế: devstart
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: ls
+Từ thực tế: -ltra
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ps
+Từ thực tế: -eal
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: head
+Từ thực tế: -10
+Top 5 từ dự đoán: ['-n', '</s>', '-1', '-y', '<filename>']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['pull', 'clone', 'add', 'push', 'commit']
+
+Câu lệnh: composer create-project --prefer-dist
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: -version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ps
+Từ thực tế: -h
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: npm run
+Từ thực tế: prod
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -alh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: systemctl
+Từ thực tế: --type=<string>
+Top 5 từ dự đoán: ['status', 'start', 'stop', 'restart', '--user']
+
+Câu lệnh: screen -a
+Từ thực tế: <number>
+Top 5 từ dự đoán: ['</s>', '<string>', '-exec', '-m', '-print']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tee --unbuffered
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: reset
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git checkout
+Từ thực tế: -
+Top 5 từ dự đoán: ['<string>', '-b', 'master', '</s>', '--']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo openvpn
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['--config', '--genkey', '</s>', '<string>', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -laSh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -laSh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -las
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ps
+Từ thực tế: -ae
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: npm
+Từ thực tế: login
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: ls <directory>
+Từ thực tế: -ldL
+Top 5 từ dự đoán: ['-l', '</s>', '-a', '-al', '-ld']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: curl -fsSLo-
+Từ thực tế: <URL>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm i jest
+Từ thực tế: --save-dev
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -latr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git checkout <directory>
+Từ thực tế: -F
+Top 5 từ dự đoán: ['-f', '-', '</s>', '<file>', '<string>']
+
+Câu lệnh: npm
+Từ thực tế: update
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git add
+Từ thực tế: -a
+Top 5 từ dự đoán: ['.', '<string>', '-A', '</s>', '--all']
+
+Câu lệnh: git status
+Từ thực tế: --ignored
+Top 5 từ dự đoán: ['</s>', '<string>', '.', '--porcelain', '-v']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: cat <directory> -
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['</s>', '<string>', '<URL>', '--header', '<number>']
+
+Câu lệnh: kubectl apply -n <string> -f
+Từ thực tế: -
+Top 5 từ dự đoán: ['<file>', '<string>', '<number>', '</s>', '<directory>']
+
+Câu lệnh: ps
+Từ thực tế: auxww
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: ls
+Từ thực tế: -lat
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: npm i gatsby-cli
+Từ thực tế: -g
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: st
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: rm
+Từ thực tế: -rd
+Top 5 từ dự đoán: ['<string>', '-rf', '-r', '-f', '-fr']
+
+Câu lệnh: sudo apt
+Từ thực tế: update\
+Top 5 từ dự đoán: ['install', 'update', 'upgrade', '-y', 'remove']
+
+Câu lệnh: npm install
+Từ thực tế: --only=<string>
+Top 5 từ dự đoán: ['</s>', '<string>', '-g', '--save', '-f']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: sudo
+Từ thực tế: update
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: awk
+Từ thực tế: -help
+Top 5 từ dự đoán: ['<string>', '-F', '--help', '-F\\"', '-F[\\']
+
+Câu lệnh: su
+Từ thực tế: -apache2
+Top 5 từ dự đoán: ['</s>', '-', 'root', '-s', 'field']
+
+Câu lệnh: ls
+Từ thực tế: ..
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -lt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -R
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: diff
+Từ thực tế: --git
+Top 5 từ dự đoán: ['<file>', '-u', '-b', '</s>', '-n']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: ldconfig
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: please
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo wpa_supplicant -i <string> -c <directory>
+Từ thực tế: -B\
+Top 5 từ dự đoán: ['--', '</s>', '<string>', '-c', '<file>']
+
+Câu lệnh: rm -rfa
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ps
+Từ thực tế: -a
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: cd
+Từ thực tế: -2
+Top 5 từ dự đoán: ['<string>', '<directory>', '..', '</s>', '-']
+
+Câu lệnh: rm
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-rf', '-r', '-f', '-fr']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: diff
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git branch
+Từ thực tế: -r
+Top 5 từ dự đoán: ['</s>', '-M', '-a', '2>', '-D']
+
+Câu lệnh: git
+Từ thực tế: add.
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: chmod
+Từ thực tế: --help
+Top 5 từ dự đoán: ['+x', '<number>', '<string>', 'u+x', '-x']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lag
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: rm kitty
+Từ thực tế: -rf
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sudo
+Từ thực tế: poweroff
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo <directory>
+Từ thực tế: -z
+Top 5 từ dự đoán: ['restart', '<string>', '-s', '</s>', '-R']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: please
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: npm
+Từ thực tế: -l
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: find <directory> -type <string>
+Từ thực tế: -delete
+Top 5 từ dự đoán: ['-name', '-execdir', '</s>', '-exec', '-print']
+
+Câu lệnh: ls
+Từ thực tế: -R
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: bash
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: pacman
+Từ thực tế: -Qqm
+Top 5 từ dự đoán: ['-S', '-Scc', '-Syu', '--noconfirm', '</s>']
+
+Câu lệnh: ls
+Từ thực tế: -lAF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -latr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: apt-get
+Từ thực tế: clean
+Top 5 từ dự đoán: ['install', 'update', '-y', 'upgrade', 'autoremove']
+
+Câu lệnh: apt-get install xterm
+Từ thực tế: -y
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: ps
+Từ thực tế: -aux
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: git push
+Từ thực tế: origin2
+Top 5 từ dự đoán: ['</s>', '-u', 'origin', '--set-upstream', '-f']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find . -type <string>
+Từ thực tế: -print0
+Top 5 từ dự đoán: ['-exec', '-name', '</s>', '-a', '-print']
+
+Câu lệnh: npm
+Từ thực tế: publish
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: npm
+Từ thực tế: audit
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: -u
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: screen
+Từ thực tế: -dr
+Top 5 từ dự đoán: ['-r', '</s>', '-ls', '-rd', '-S']
+
+Câu lệnh: git
+Từ thực tế: please
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo curl -fsSLo
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<file>', '</s>', '<string>', 'ls', 'git']
+
+Câu lệnh: apt
+Từ thực tế: man
+Top 5 từ dự đoán: ['install', 'list', 'update', 'search', 'upgrade']
+
+Câu lệnh: git
+Từ thực tế: checkout
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: docker
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: history
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tmux
+Từ thực tế: --version
+Top 5 từ dự đoán: ['</s>', 'a', 'source', 'kill-session', 'kill-server']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: python
+Từ thực tế: -mjson.tool
+Top 5 từ dự đoán: ['<file>', '</s>', '-c', '-m', '-']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ls
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: rm
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '-rf', '-r', '-f', '-fr']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: grep -Ril
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: light
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -r
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: npm run
+Từ thực tế: make
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: chmod
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['+x', '<number>', '<string>', 'u+x', '-x']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt install git vim
+Từ thực tế: -y
+Top 5 từ dự đoán: ['<file>', '</s>', '<directory>', '<string>', 'ls']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: grep
+Từ thực tế: --version
+Top 5 từ dự đoán: ['<string>', '-i', '-v', '-E', '-r']
+
+Câu lệnh: sudo systemctl --now <string>
+Từ thực tế: docker
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', '-o', 'git']
+
+Câu lệnh: ls
+Từ thực tế: -lah
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: --help
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: -i
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: docker
+Từ thực tế: network
+Top 5 từ dự đoán: ['ps', 'run', 'exec', 'images', 'build']
+
+Câu lệnh: mysql -hlocalhost -uroot
+Từ thực tế: -p
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo code .
+Từ thực tế: --no-sandbox
+Top 5 từ dự đoán: ['</s>', '-name', '-type', '-empty', '\\(']
+
+Câu lệnh: ls
+Từ thực tế: ..
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tail -16
+Từ thực tế: <file>
+Top 5 từ dự đoán: ['<string>', '</s>', 'ls', 'git', 'cd']
+
+Câu lệnh: curl
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', '<URL>', '-fsSL', '-s', '-sL']
+
+Câu lệnh: npm run
+Từ thực tế: frontend
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: sudo
+Từ thực tế: halt
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -alF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -lh
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -Cl
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: systemctl
+Từ thực tế: --help
+Top 5 từ dự đoán: ['status', 'start', 'stop', 'restart', '--user']
+
+Câu lệnh: git commit
+Từ thực tế: -m"update"
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: git
+Từ thực tế: --version
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo nvidia-xconfig --enable-all-gpus
+Từ thực tế: --cool-bits=<number>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: ps
+Từ thực tế: -ae
+Top 5 từ dự đoán: ['aux', '-ef', '</s>', '-auxwf', 'ax']
+
+Câu lệnh: journalctl
+Từ thực tế: -f
+Top 5 từ dự đoán: ['</s>', '-b', '-xe', '-xeu', '-u']
+
+Câu lệnh: git filter-branch -f --prune-empty -d
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['<string>', '--build', '</s>', '<file>', '--restart']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: find
+Từ thực tế: src
+Top 5 từ dự đoán: ['.', '<directory>', '-name', '$dir', '</s>']
+
+Câu lệnh: find . -empty -type <string> -print
+Từ thực tế: -delete\
+Top 5 từ dự đoán: ['-delete', '</s>', '-deletefind', '-prune', '-a']
+
+Câu lệnh: git
+Từ thực tế: fetch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: cd
+Từ thực tế: -2
+Top 5 từ dự đoán: ['<string>', '<directory>', '..', '</s>', '-']
+
+Câu lệnh: sudo RESPONSE=<string> --system --print-reply --dest=<file>
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: hist
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: docker-compose
+Từ thực tế: build
+Top 5 từ dự đoán: ['up', 'logs', 'down', '</s>', 'stop']
+
+Câu lệnh: cp
+Từ thực tế: --help
+Top 5 từ dự đoán: ['<string>', '-r', '-v', '-R', '</s>']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tee
+Từ thực tế: -h
+Top 5 từ dự đoán: ['-a', '<file>', '--help', '<directory>', '</s>']
+
+Câu lệnh: npm
+Từ thực tế: ls
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: usermod
+Từ thực tế: -U
+Top 5 từ dự đoán: ['-aG', '</s>', '-G', '-a', '--help']
+
+Câu lệnh: git
+Từ thực tế: rebase
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: npm
+Từ thực tế: -v
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: ls
+Từ thực tế: -alrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -lrt
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: ls
+Từ thực tế: -altr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git clone <URL>
+Từ thực tế: --depth=<number>
+Top 5 từ dự đoán: ['</s>', '--branch', '--depth', '<string>', '--force']
+
+Câu lệnh: npm
+Từ thực tế: test
+Top 5 từ dự đoán: ['install', 'run', 'i', 'start', 'init']
+
+Câu lệnh: sudo
+Từ thực tế: reboot
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: ls
+Từ thực tế: -alF
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: du -smc
+Từ thực tế: <directory>
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: sort
+Từ thực tế: -h
+Top 5 từ dự đoán: ['</s>', '-u', '-n', '-nr', '-g']
+
+Câu lệnh: sudo
+Từ thực tế: su
+Top 5 từ dự đoán: ['apt-get', 'apt', 'sed', 'systemctl', 'pacman']
+
+Câu lệnh: npm run
+Từ thực tế: register
+Top 5 từ dự đoán: ['test', 'dev', 'start', 'bench', 'coverage']
+
+Câu lệnh: cut -d-
+Từ thực tế: -f2-
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: find
+Từ thực tế: --help
+Top 5 từ dự đoán: ['.', '<directory>', '-name', '$dir', '</s>']
+
+Câu lệnh: git
+Từ thực tế: checkout
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt install linux-headers-`uname
+Từ thực tế: -r`
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: exec
+Từ thực tế: </s>
+Top 5 từ dự đoán: ['<string>', 'zsh', 'uwsgi', '--no-startup-id', '-it']
+
+Câu lệnh: ls
+Từ thực tế: -\t
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: man ls
+Từ thực tế: -C
+Top 5 từ dự đoán: ['</s>', '-la', '<string>', '-l', '-a']
+
+Câu lệnh: git commit
+Từ thực tế: -m"update"
+Top 5 từ dự đoán: ['-m', '</s>', '-am', '-a', '--amend']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git commit -m <string>
+Từ thực tế: -f
+Top 5 từ dự đoán: ['</s>', '--no-verify', 'install', '--author', '<string>']
+
+Câu lệnh: git
+Từ thực tế: stash
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: log
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: tmux split-window -t <string>
+Từ thực tế: -v
+Top 5 từ dự đoán: ['</s>', '-C', '-b', '-o', 'overlay']
+
+Câu lệnh: ls Downloads/syncthing-linux-amd64-v1.27.8
+Từ thực tế: -al
+Top 5 từ dự đoán: ['</s>', '<string>', 'ls', 'git', 'cd']
+
+Câu lệnh: git
+Từ thực tế: branch
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: sudo apt
+Từ thực tế: autoremove
+Top 5 từ dự đoán: ['install', 'update', 'upgrade', '-y', 'remove']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: modprobe
+Từ thực tế: pcspkr
+Top 5 từ dự đoán: ['</s>', 'loop', '<string>', '-r', '-a']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: bash -s <string>
+Từ thực tế: --rails
+Top 5 từ dự đoán: ['--ruby', '</s>', 'only', '-X', '<string>']
+
+Câu lệnh: sudo <directory> --prefix=<directory>
+Từ thực tế: --openssldir=<directory>
+Top 5 từ dự đoán: ['--modulefilesdir=<directory>', '</s>', '<string>', 'ls', 'git']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: tail
+Từ thực tế: -2
+Top 5 từ dự đoán: ['-f', '-n', '<file>', '<filename>', '+n']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -ltr
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: remote
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
+Câu lệnh: ls
+Từ thực tế: -r
+Top 5 từ dự đoán: ['</s>', '-la', '-l', '-a', '-al']
+
+Câu lệnh: git
+Từ thực tế: init
+Top 5 từ dự đoán: ['add', 'commit', 'push', 'status', 'pull']
+
